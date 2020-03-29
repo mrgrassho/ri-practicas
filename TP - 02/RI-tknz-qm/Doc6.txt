@@ -1,0 +1,229 @@
+El carbono elemental se presenta en dos formas alotrópicas: Diamante y Grafito.
+
+El carbono se encuentra combinado con el carbono se encuentra combinado con el hidrógeno en los hidrocarburos, y combinado con los metales en los carbonatos tal como la caliza Ca CO3, y la magnesita Mg CO3. Todos los organismos vivos, animales y plantas, contienen compuestos del carbono.
+
+Existen otras modificaciones físicas conocidas como carbono amorfo, pero estas formas están constituidas por minúsculos cristales de grafito, dispuestos de manera que le dan una apariencia porosa.
+Propiedad 	Grafito 	Diamante
+Aspecto Físico 	Se halla en forma de una sustancia negra, brillante, blanda y untuosa al tacto. Se presenta en escamas o láminas cristalinas adheridas entre si. 	Se halla en forma de cristales transparentes, pertenecientes al sistema regular y parecidos a octaedros aunque muchos diamantes naturales parecen pedruscos.
+
+Características
+	
+
+Sus capas se separan dejando marcas negras sobre el papel y otras sustancias.
+	
+
+El diamante es la sustancia más dura que se conoce.
+
+Conductividad eléctrica
+	
+
+Conduce la electricidad
+	
+
+No conduce la electricidad
+
+Los electrones que se encuentran entre capa y capa son los que conducen la electricidad y estos también son los que le dan el brillo al grafito ya que la luz se refleja sobre la nube electrónica.
+
+Existe una escala de dureza (escala de Mohs) que va del 1 al 10 donde el más blando es el talco (1) y el más duro el diamante (10)
+
+ 
+Carbones Naturales
+
+También son llamados carbones fósiles son los carbones que se encuentran en la naturaleza y se originaron por carbonización o fosilización de vegetales en distintos estratos del subsuelo. Se distinguen los siguientes tipos:
+
+    La antracita
+    La hulla
+    El lignito
+    La turba
+
+La antracita
+
+Es una variedad dura y compacta del carbón natural y tiene mucho lustre. Arde prácticamente en forma invisible. Las variedades mas puras están construidas casi totalmente de carbón.
+La hulla
+
+Es materia vegetal que fósil que se desarrollo durante el periodo carbonífero y quedó enterrada bajo agua y yacimientos térreos que la protegieron de la putrefacción. Se produjo una deposición lenta.
+
+Si la hulla bituminosa se calienta en ausencia de aire se desprenden varios productos volátiles, por ejemplo gas de hulla, amoniaco, fenol, benceno y alquitrán, y queda un residuo compuesto por toda la materia mineral de la hulla, pero principalmente de carbón libre (coque).
+
+El lignito
+
+Es un material geológico que no es considerado mineral en todo su sentido, sino que es un mineraloide. Fue formado de la carbonización de madera bajo presiones extremas.
+La Turba
+
+Es una acumulación de materia vegetal parcialmente carbonizada. Se forma en humedales y sitios pantanosos.
+ 
+Negro de Humo
+
+Se obtiene al quemar el gas natural con una cantidad limitada de aire, de modo que se produzca la máxima cantidad de humo, el gas se quema debajo de una placa de hierro giratoria y refrigerada con agua, de la que se rasca el hollín depositado. También se produce negro de humo quemando trementina, petróleo, alquitrán y aceites grasosos. El negro de humo es una de las variedades más puras de carbón amorfo.
+Halogenuros
+
+Se conocen halogenuros y oxihalogenuros simples y substituidos de estos elementos. Los haluros simples son del tipo X4C, pero se forman también se forman haluros derivados de cadenas. Los tetrahaluros son los haluros más característicos y todos los elementos del grupo del carbono los elementos los forman. Los dihaluros no existen para el C ni para el Si.
+
+Los puntos de fusión del tetracloruro, tetrabromuro y teraioduro de carbono son elevados.
+
+La inestabilidad del tetracloruro y tetraioduro de carbono pueden interpretarse como una consecuencia de la interposición de los grandes átomos de halógeno alrededor de los pequeños átomos de carbono.
+
+Los halogenuros de carbonilo (X2CO con X= F, Cl ó Br) a los halogenuros mixtos (por ejemplo ClBrCO) son compuestos hidroliticamente inestables. La urea, (NH2)2CO, está relacionada con los mismos pero es más estable.
+Teflón
+
+El teflón es un polímero en el que se repite la unidad (-CF2-)n
+Óxidos
+
+Monóxido de carbono
+
+En el laboratorio este gas se obtiene calentando ácido oxálico H2C2O4, un sólido blanco cristalino con ácido sulfúrico (H2SO4) concentrado que actúa como deshidratante.
+
+H2C2O4 => H2O + CO2 (g) + CO (g)
+
+Y luego se pasa la mezcla gaseosa por hidróxido de potasio para absorber el CO2
+
+Otra forma es con acido fórmico (HCOOH) con ácido sulfúrico concentrado.
+
+HCOOH => H2O + CO (g)
+
+El CO es muy reductor. La llama azul radiante que arde sobre el fuego de carbón es debido al CO2 que se convierte en CO.
+
+CO2 + C => 2CO (g)
+
+Si se hace pasar aire a través de hulla o coque ardiendo, se obtiene una mezcla de CO y nitrógeno (gas pobre), el cual arde sin dejar ceniza.
+
+Al pasar H2O (g) sobre hulla o coque incandescente se produce una mezcla de H2 y CO llamada gas de agua. Esta mezcla arde en forma incolora y no luminosa.
+
+C +H2O => H2 (g) + CO (g)
+
+El CO es un gas incoloro, insípido e inodoro muy poco soluble en H2O
+
+Punto de ebullición: -192ºC
+
+Punto de fusión: -207ºC
+
+Es neutro y muy reductor, se utiliza para reducir óxidos metálicos. Es venenoso se obtiene por descomposición de HCOOH pero no se combina con H2O pata dar HCOOH.
+
+CO + NaOH (calor y presión) => HCOONa
+
+X2CO haluro de carbonilo
+
+CO + X2 => X2CO
+Dióxido de carbono
+
+El CO2 es, por mucho, el más importante de los anhídridos de los ácidos carbónicos.
+
+El CO2 es un gas incoloro inodoro e insípido. Es más denso que el aire y puede licuarse a temperatura ambiente. Es bastante soluble en H2O y forma una pequeña en extensión ácido carbónico.
+
+CO2 +H2O => H2CO3
+Obtención
+
+C + O2 => CO2 (g)
+
+C7H16 + 11 O2 => 7CO2 (g) + 8 H2O (g)
+
+Para aprovechar el CO2 que sale de un horno se utiliza hidróxido de potasio y se forma bicarbonato potásico
+
+CO2 + H2O2 => H2CO3
+
+H2CO3 + CO3- + 2K+ => 2HCO3- + 2K+
+
+Cuando la presión se reduce se invierte la reacción y se libera el CO2
+
+CaCO3 => CaO + CO2 (g)
+
+El CO2 se usa para preparar bebidas efervescentes. Se consume en grandes cantidades en la fabricación de bicarbonato de sodio NaHCO3 y carbonato sódico Na2CO2 . 10H2O
+
+El CO2 puro no solo extingue la llama sino que una pequeña proporcion (5-10%) hace inservible al aire para sostener la combustión por esto algunos extintores de CO2 tienen bicarbonato sódico y ácido sulfúrico.
+
+2 NaHCO3 + H2SO4 => Na2SO4 + 2H2O + 2CO2(g)
+
+Otros matafuegos poseen CO2 líquido en el tubo.
+Carbonato de sodio
+
+El carbonato de sodio puede obtenerse por el No método Leblanc, que es un proceso idealizado en 1791 por el francés Nicolas Leblanc.
+
+En este método ocurren las siguientes reacciones químicas:
+
+Primero se hacen reaccionar cloruro de sodio con ácido sulfúrico
+
+2 NaCl + H2SO4 => Na2SO4 + 2 HCl
+
+Luego se calcina el sulfato de sodio con cal y carbón
+
+Na2SO4 + CaCO3 + 2 C => Na2CO3 + CaS + 2 CO2
+
+Modernamente el procedimiento industrial más importante para fabricar esta sustancia de la industria química pesada, es el llamado método Solvay, del apellido del inventor Belga Ernest Solvay quien logro fabricar esta sustancia por este método en 1861.
+
+Método de la Soda Solvay
+Usos de la Soda Solvay:
+
+Se consumen grandes cantidades de carbonatos de sodio en la fabricación de vidrio, jabones y diversos productos químicos y depuración de aguas duras. El consumo anual en U.S.A. es superior a los 3.000.000 de toneladas. El bicarbonato de sodio se usa en medicina y en la fabricación de polvos substitutivos de la levadura.
+Bicarbonato de sodio
+
+CO2 + NaOH => NaHCO3
+
+2 NaHCO3 (s) + (calor) => NaCO3(s) + CO2 (g) + H2O (g)
+Acido Carbónico
+
+Una disolución acuosa de CO2 presenta las propiedades de un ácido débil. El ácido carbónico, no se ha aislado como tal. Su existencia en disolución se infiere del hecho de que forma sales con los álcalis:
+
+CO2 + OH => HCO3-
+
+o
+
+CO2 + NaOH => NaHCO3
+
+CO3H- + OH- => CO3- + H2O
+o
+NaHSO3 + NaOH => Na2CO3 + H2O
+
+El ácido es diprótico (K1=4,45. 10E -7 y K2=4,69. 10E -10) y forma dos series de sales, carbonatos y dicarbonatos. Los carbonatos y bicarbonatos de los metales alcalinos y de amonio son solubles. Los carbonatos de otros metales son insolubles y pueden precipitarse añadiendo carbonatos solubles a disoluciones de sus sales:
+
+Mn2+ + CO3- => MnCO3
+
+Algunos carbonatos metálicos, aunque insolubles en agua, son solubles en disoluciones de acido carbónico por formar bicarbonatos solubles. La formación de estalactitas y estalagmitas es debido a la transformación del bicarbonato cálcico, soluble, en carbonato cálcico, insoluble.
+
+Si el ácido carbónico es muy inestable se comprende que el ácido ortocarbónico (H6CO4), no se conozca ni siquiera sus sales. No obstante, sus esteres (CO4R4), .son relativamente estables.
+Estabilidad Térmica de los Carbonatos
+
+Como cualquiera de los hidróxidos de los metales alcalinos son bases fuertes, sus sales con los ácidos débiles son bastante alcalinas como consecuencia de la hidrólisis.
+
+C032- + H2O => HCO3- + OH-
+
+Para muchos fines, cuando se requiere un medio de reacción alcalina suave es más conveniente utilizar carbonato sódico que en una disolución de NaOH diluido.
+
+Los carbonatos pueden ser preparados en el laboratorio a partir de NaOH y CO2. Como quiera que el ácido carbónico es diprótico, da origen a dos series de sales, que son los hidrogenocarbonatos (bicarbonatos) y los carbonatos normales:
+
+NaOH + CO2 => NaHCO3
+
+2NaOH + CO2 => Na2CO3 + H2O
+
+En la práctica resulta un poco difícil añadir exactamente la cantidad justa de CO2 para obtener cualquiera de estas sales en estado puro. Sin embargo, el bicarbonato de sodio es bastante menos soluble en agua que el carbonato normal, de modo que si se pasa C02 a través de NaOH razonablemente concentrado, precipita fácilmente el bicarbonato, que puede ser separado por filtración y desecado. Cuando se desee obtener el carbonato normal se puede transformar el bicarbonato calentándolo a unos 200°C:
+
+2NaHCO3 (a 200°C) => Na2CO3 + H2O
+
+Como el carbonato normal no se descompone por debajo de 800°C, es posible llegar a obtener Na2CO3 puro de esta forma.
+
+Aún cuando el CÜ2 es relativamente barato el NaOH resultaría demasiado caro como materia prima para la producción de carbonato de sodio en gran escala. El proceso Solvay, que es un modelo de economía química perfecta, utiliza disoluciones de NaCl y caliza como materia prima Los dos productos mencionados son baratos. Se empieza por saturar la salmuera con amoníaco. Después se pasa a través de la salmuera amoniacal CO: que se obtiene tostando caliza. Tienen lugar las siguientes reacciones.
+
+(1) CaCO3 a 1000°C => CaO + CO2
+
+(2) CO2 + H2O + NH3 => NH4+ + HCO3-
+
+(3) Na+ + HCO3- => NaHCO3
+
+El ión cloruro se queda en la disolución y el hidrógeno carbonató de sodio cristaliza, se filtra y se deseca. Después se calcina en un horno.
+
+(4) 2NaHCO3 => Na2CO3 + H2O + CO2
+
+El CO2 que se desprende en el paso (4) se recicla e introduce nuevamente en la fase (2). En esta fase tenemos carbonato de sodio y una disolución acuosa de cloruro de amonio. Esta última se hierve con la disolución de la cal producida durante el proceso (1).
+
+(5) CaO + 2NH4Cl a 100°C => CaCl2 + H2O + 2NH3
+
+Y de esta forma el amoníaco, que es el producto químico más caro de todos los que intervienen en el proceso, queda regenerado y se vuelve a introducir en al proceso de la fase (2).
+
+La reacción general, en la que el amoníaco es simplemente un producto intermedio recuperable, podría escribirse
+
+2NaCl + CaCO3 => CaCl2 +Na2CO3
+
+esta reacción desde luego no puede verificarse directamente; el carbonato de calcio es tan soluble que el equilibrio favorece extraordinariamente el miembro de la izquierda de la reacción, el subproducto de este proceso es el cloruro cálcico que es de utilidad mas bien limitada, y difícil de eliminar a causa de su marcado carácter higroscópico. Cualquier proceso de utilización industrial del cloruro cálcico se encontraría con un depósito de materia prima barata en las muchas instalaciones Solvay en el mundo.
+
+Cuando el carbonato sódico se recristaliza a partir de agua se obtiene su decahidralo Na2CO3 . 10 H2O. La presión de vapor de agua en equilibrio con este compuesto a la temperatura ambiente es mayor que la presión parcial de vapor de agua existente en la atmósfera; en consecuencia, el equilibrio queda favorecido hacia la derecha si se expone el decahidrato a la acción de la atmósfera Por ello los cristales eflorecen.
+
+Na2CO3 . 10H2O => Na2CO3 . 7H2O + 3H2O 

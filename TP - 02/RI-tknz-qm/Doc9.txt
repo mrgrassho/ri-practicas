@@ -1,0 +1,47 @@
+Gases
+
+Los gases son uno de los estados de agregación de la materia. En este estado las moléculas que constituyen un gas casi no son atraídas unas por otras, por lo que se mueven en el vacío a gran velocidad y muy separadas unas de otras, explicando así las propiedades. Hay varias características de los gases que son familiares para todo el mundo. Los gases no tienen forma ni volumen propio se expanden hasta llenar y adoptar las formas de los recipientes que los contienen. Los gases se difunden unos en otros y se mezclan en todas las proporciones. No podemos ver las partículas individuales de un gas, aunque podemos apreciar si la masa de gas tiene color como por ejemplo el Cl2(g) es un gas amarillo verdoso, el Br2(g) es un gas gas rojo pardusco, y el I2(g) es un gas violeta. No obstante, la mayor parte de los gases comunes como H2, O2, N2, CO y CO2, son incoloros.
+
+Otra característica sobresaliente de los gases es su baja densidad, en comparación con las de los líquidos y sólidos. Un mol de agua líquida a 298 K y 1 atm de presión ocupa un volumen de 18,8 cm3, mientras que la misma cantidad de vapor de agua a la misma temperatura y la presión tiene un volumen de 30.200 cm3, más de 1000 veces mayor.
+
+Algunos gases son combustibles como el hidrógeno y el metano, mientras que otros son químicamente inertes, como el helio y el neón. Hay cuatro propiedades que determinan el comportamiento físico de un gas: la cantidad de gas (en moles), su volumen, temperatura y presión. Si se conocen los valores de cualesquiera tres de estas propiedades, se puede generalmente calcular el valor de la cuarta. Para hacer esto podemos utilizar una ecuación matemática llamada ecuación de estado.
+
+En ciertas condiciones de presión y temperatura, es posible que la mayoría de las sustancías existan en alguno de los tres estados de la materia: sólido, líquido o gaseoso. Por ejemplo, el agua puede estar en estado sólido como hielo, en estado líquido como agua o en estado gaseoso como vapor. Las propiedades físicas de una sustancia dependen a menudo de su estado.
+
+Los gases son en diversos aspectos, mucho más sencillos que los líquidos y los sólidos. El movimiento molecular de los gases resulta totalmente aleatorio, y las fuerzas de atracción entre sus moléculas son tan pequeñas que cada una se mueve en forma libre y fundamentalmente independíente de las otras. Sujetos a cambios de temperatura y presión, los gases se comportan en forma más previsible que los sólidos y los líquidos. Para una aproximación muy buena todos los gases se comportan de la misma manera en respuesta a los cambios de temperatura y presión, expandiéndose o contrayendose en cantidades predecibles. Esto es muy diferente del comportamiento de los líquidos o sólidos, en el que las propiedades de cada sustancia en particular se debe determinar individualmente.
+
+Las leyes que norman este comportamiento han desempeñado un importante papel en el desarrollo de la teoría atómica de la materia y la teoría cinética molecular de los gases.
+Gases en la naturaleza
+
+La atmósfera terrestre está compuesta por una mezcla de gaces cuya composición porcentual en volumen es de aproximadamente 78% de N2, 21% de O2, y 1% de otros gases incluyendo CO2. En la siguiente tabla se muestran algunos elementos y compuestos que son gases en condicioncs atmosféricas normales (1atm y 25ºC).
+Elementos
+	
+Compuestos
+Molécula
+	
+Nombre
+	
+Molécula
+	
+Nombre
+H2 	Hidrógeno 	CO2 	Dióxido de carbono
+N2 	Nitrógeno 	CO 	Monóxido de carbono
+O2 	Oxígeno 	CH4 	Metano
+O3 	Ozono 	NH3 	Amoníaco
+F2 	Flúor 	
+
+NO
+	Óxido nitrico
+Cl2 	Cloro 	N2O 	Óxido nitroso
+He 	Helio 	NO2 	Dióxido de nitrógeno
+Ne 	Neón 	HF 	Fluoruro de hidrógeno
+Xe 	Xenón 	HCl 	Cloruro de hidrógeno
+Kr 	Kriptón 	HBr 	Bromuro de hidrógeno
+Rn 	Radón 	HI 	Yoduro de hidrógeno
+Ar 	Argón 	H2S 	Sulfuro de hidrógeno
+
+Analizando la tabla se puede observar que el hidrógeno (H2), el nitrógeno (N2), el oxígeno (O2), el flúor (Fl2) y el cloro (Cl2) existen como moléculas diatómicas. Además un alótropo del oxígeno existe como O3 a temperatura y presión ambiente. Otra cosa que se destaca es que todos los elementos del grupo 18 (8A) son gases monoatómicos: helio (He), neón (Ne), argón (Ar), kriptón (Kr), xenón (Xe) y radón (Rn). A los gases de este grupo se los denomina gases nobles.
+
+En condiciones ambientales normales de 25ºC y 1atm no existen compuestos iónicos en forma de gases. Esto se debe a que los cationes y aniones en un sólido iónico se hallan unidos por fuerzas electrostáticas muy fuertes. Para vencer esas atracciones se necesita aplicar una gran cantidad de energía, que en la práctica implica calentar demasiado al sólido. En condiciones normales, lo único factible es fundir al sólido, por ejemplo, el NaCl se funde a una temperatura alta: 801ºC. Para que hierva, se debería elevar la temperatura por encima de 1000ºC.
+
+El comportamiento de los compuestos covalentes o moleculares es más variado; algunos, por ejemplo, CO, CO2, HCl, NH3, y CH4 (metano), son gases, pero la mayoría son líquidos o sólidos a la temperatura ambiente. Sin embargo, por calentamiento se convierten en gases con mayor facilidad que los compuestos iónicos. En otras palabras. los compuestos moleculares por lo regular hierven a temperaturas mucho más bajas que los compuestos iónicos

@@ -1,0 +1,53 @@
+
+
+La química orgánica es el estudio de los compuestos del carbono.
+
+Los compuestos del carbono son las sustancias centrales a partir de las cuales están hechos todos los organismos vivientes de este planeta.
+El extenso campo de los compuestos del carbono
+
+Actualmente se conocen más de 3 millones de compuestos orgánicos con un ritmo de crecimiento de 100.000 compuestos nuevos al año.
+
+Este elevado número de compuestos tienen como elemento básico de su constitución molecular al átomo de carbono unido, sobre todo, a los elementos oxígeno e hidrógeno, también a los halógenos y a veces S y P.
+
+A diferencia de los compuestos inorgánicos, los orgánicos presentan las siguientes características:
+
+    La gran mayoría de enlaces son de tipo covalente.
+    Puntos de fusión y de ebullición bajos respecto a los compuestos inorgánicos.
+    Poco solubles en agua.
+    Moléculas apolares o poco polares.
+    Presentan reacciones lentas y complejas.
+    Estructuras moleculares complicadas, especialmente las de origen natural.
+    Se descomponen al calentarlos.
+
+El átomo de carbono presenta una configuración electrónica 1s2 2s2 p2 . En estado fundamental los electrones del átomo de carbono estarían situados de la siguiente forma:
+
+2 pxμ 2 pyμ 2 pz
+2s μ ο
+1s μ ο
+
+Según esta configuración el átomo de carbono actuaría normalmente con valencia (II), pero sólo se conoce el monóxido de carbono (CO) y el carbono (CH2), como compuestos del carbono que actúen con valencia (II).
+
+Por adición de 96 Kcal/mol de energía a un átomo de carbono, uno de los electrones del orbital 2s puede excitarse hasta alcanzar el orbital vacío 2p dando la configuración:
+
+2 px μ 2 py μ 2 pz μ
+2 s μ
+1 s μ ο
+
+El átomo de carbono dispone ahora de cuatro electrones desapareados y al formar cuatro enlaces covalentes puede obtener la configuración de gas noble. En la formación de esos enlaces covalentes se libera energía. En la reacción CH2 + H2, se crean dos enlaces C – H y se liberan 174 Kcal/mol. Habitualmente el carbono actúa con valencia (IV). El reducido volumen del átomo de carbono hace que el núcleo ejerza fuertemente su influencia sobre dichos electrones.
+
+El átomo de carbono puede formar fuertes enlaces covalentes con otros átomos de carbono dando largas cadenas de carbono, perfectamente estables. De ahí el elevado número de compuestos orgánicos: de cadena corta, cadena larga, ramificados, cíclicos, etc.
+
+El átomo de carbono, puede unirse también a otros átomos de carbono, mediante enlaces dobles y triples.
+¿El Boro, Nitrógeno, Silicio podrían originar una química similar a la del carbono?
+
+Boro y nitrógeno al estar en el mismo periodo poseen idénticos orbitales de valencia. Pero el boro tiene 3 electrones y el nitrógeno 5. A diferencia del carbono que utiliza 4 electrones de valencia en cuatro orbitales de valencia. El boro tendrá un orbital vacío formando, por ello, compuestos poco estables debido a la deficiencia de electrones. En cambio, el nitrógeno presenta el inconveniente contrario, con un par de electrones sin formar enlace, los compuestos en base a enlaces N-N presentan repulsiones entre los pares de electrones solitarios (enlazantes) que hacen débil al enlace, lo cual excluye la posibilidad de cadenas de nitrógenos estables.
+
+Las limitaciones que presenta el silicio son:
+
+1. No puede formar enlaces múltiples (dobles, triples), pues la repulsión de los electrones internos (10 electrones 1s2 2s2 p6) no permite que dos átomos de silicio se aproximen lo suficiente para que los orbitales p se solapen y formen un doble enlace.
+
+2. La energía de los enlaces Si-Si o Si-H es muy baja en comparación con las energías de enlace C-C o C-H., por ello, por ello será posible formar cadenas de cierta longitud en base al silicio.
+
+No obstante, el enlace Si-O es bastante fuerte y de ahí la posibilidad de cadenas constituidas por átomos de silicio enlazados por puentes de oxígeno (silicatos, sílice) que constituyen el componente inorgánico principal de la corteza terrestre.
+
+

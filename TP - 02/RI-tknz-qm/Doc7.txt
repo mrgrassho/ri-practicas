@@ -1,0 +1,91 @@
+Silicio
+
+El silicio es un elemento químico metaloide o semimetálico cuyo símbolo es "Si" su número atómico es 14, pertenece al grupo 14 (IVA) de la tabla periódica de los elementos y forma parte de la familia de los carbonoideos. Es el segundo elemento más abundante en la corteza terrestre después del oxígeno.
+
+El nombre Silicio deriva del latín silex (pedernal). Los compuestos del silíceo fueron ya de gran importancia en la prehistoria Las herramientas y las armas hechas de pedernal; una de las variedades del dióxido de silicio fueron los primeros utensilios del hombre Aunque Davy creyó que la sílice no era un elemento, no pudo descomponerlo. En 1823 Berzelius obtuvo silicio amorfo al hacer reaccionar tetrafluoruro de silicio sobre potasio fundido. Al lavar el producto con agua, obtuvo un polvo pardo que era silicio amorfo.
+
+El silicio, a diferencia del carbono, no existe libre en la naturaleza. Como dióxido se encuentra en varias formas de cuarzo: Cristal de roca, Amatista, Cuarzo ahumado, Cuarzo rosa, y cuarzo lechoso. La arena es en gran parte dióxido de silicio (sílice). El ópalo es una variedad hidratada de cuarzo. La mayoría de las rocas corrientes, salvo calizas o dolomitas, contiene silicio: por ejemplo, el feldespato Si3O8KAl; el asbesto (SiO3)4Mg3Ca; la mica (SiO4)3H2KAl3; etc.
+
+El silicio amorfo es un polvo pardo, mas activo químicamente que la variedad cristalina. Se une con el flúor a temperaturas ordinarias, y con oxigeno, cloro, bromo, azufre, nitrógeno, carbono y boro a temperaturas progresivamente mas altas.
+
+Con ciertos metales, el silicio se combina formando siliciuros, por ejemplo Mg2Si.
+
+El silicio cristalino puede obtenerse en masas aciculares cristalizando el elemento de su disolución en Aluminio fundido. Los cristales son bastante duros para rayar el vidrio. Ambas clases de Silicio funden a unos 1500ºC.
+
+La silicona es la descomposición de los haluros de alkisilicio en alcoholes
+Silanos o silicanos:
+
+Análogamente al carbono, el silicio forma también innumerables compuestos con el hidrógeno. Pero siendo su carácter no metálico menos acusado que el de dicho elemento, da lugar a menos hidruros, y estos no son tan estables como los de carbono. El acido clorhídrico reacciona con el siliciuro de magnesio para producir el primer miembro de una serie de hidruros de silicio llamados silicanos o silanos.
+
+SiMg2 + 4HCl => 2MgCl2 + SiH4
+
+Otros miembros de la serie son el disilano Si2H6; el trisilano Si3H3; y el tetrasilano Si4H10. Los silanos son venenosos. Los haluros de alkilsilicio se descomponen en los alcoholes dando siloxanos o siliconas.
+Dióxido de Silicio:
+
+El dióxido de silicio (sílice), SiO2, se encuentra en la naturaleza en formas muy diversas de cuarzo, como un depósito cristalino. El color de los cristales proviene de impurezas. Formas amorfas de la sílice: son el ágata, el jaspe y el ónice. Las partes duras y brillantes de la paja y del ombú contienen sílice, y los esqueletos de algunos organismos marinos (esponjas y tierra de diatomeas) están compuestos en gran proporción de sílice.
+
+El cuarzo puro se funde en un homo eléctrico a unos 1700°C, para moldearlo en vasijas, cuino vasos, botellas y tubos, al igual que el vidrio. El «vidrio» resultante es lechoso y translúcido, por las diminutas burbujas de gas incluidas en el material. El cuarzo trasparente se obtiene por fusión en vacío para eliminar los gases. Las vasijas construidas de cuarzo tienen muchas ventajas; el material es monos soluble que el vidrio y tiene un coeficiente de dilatación térmica muy pequeño, lo que le permite sufrir cambios bruscos de temperatura sin romperse. Así, un cubo de cuarzo puede calentarse al rojo y sumergirse en agua sin que se rompa, mientras que el vidrio ordinario en las mismas condiciones se rompe en pequeños fragmentos. Como el cuarzo deja pasar mejor que el vidrio la luz ultravioleta, se usa en las lámparas de arco de vapor de mercurio.
+
+La estructura de los silicatos es muy compleja y solamente ha podido dilucidarse mediante estudios minuciosos con rayos X
+
+Los silicatos de potasio y de sodio son solubles en agua, y se obtienen diluyendo juntos arena e hidróxido de sodio o de potasio, o fundiendo arena con carbonato de sodio o de potasio, con lo que se forma orto o metasilicato:
+
+SiO2 + 4OH- => SiO4 + 2H2O
+
+SiO2 +Na2CO3=>Na2SiO3 + CO2
+
+El silicato de sodio es el más importante; y, aunque sólido, se encuentra generalmente en el comercio en forma de disolución concentrada con el nombre de vidrio soluble. Se utiliza para hacer un incombustible la madera y los tejidos, como adhesivo en el cemento de China, como relleno o carga en jabones baratos, y para conservar huevos.
+
+Los silicatos de los demás metales son insolubles en agua, y se encuentran en la naturaleza formando minerales y son disoluciones sólidas o mezclas de dos o más silicatos simples. Algunas de estas son de gran importancia. Por ejemplo, el feldespato se altera por el agua y el dióxido de carbono, formándose carbonato potásico K2CO3, y arcilla. El carbonato potásico del suelo es utilizado por las plantas como alimento. La arcilla es generalmente arrastrada por corrientes de agua, y se deposita en niveles más bajos, formando yacimientos.
+
+Vidrio:
+
+El vidrio ya se fabricaba en Egipto 1400 años A.C. Durante la Edad Media, Venecia y Bohemia fueron los centros importantes de la manufactura del vidrio. En 1608, un horno de vidrio instalado en Virginia, inicio la gran industria del vidrio en los EE.UU.
+
+El vidrio es una mezcla de silicatos. La composición de un vidrio típico de cal y sosa o vidrio de ventanas, Na2O-CaO-6SiO2.
+
+Este vidrio se fabrica fundiendo juntos Na2CO3, CaCO3, SiO2.Se añade un resto de vidrio de la misma composición procedente de una fundición anterior como fundente. Durante las primeras etapas de proceso de fusión se forma mucha espuma, pero al continuar calentando se desprende todo el CO2 y resulta una fundición clara:
+
+Na2CO3 + SiO2 => Na2SiO3 + CO2 (g)
+
+CaCO3 + SiO2 => CaSiO2 + CO2 (g)
+
+El material viscoso y claro se vierte en moldes o se prensa en matrices, obteniéndose objetos de vidrio moldeado.
+Tipos de vidrio
+
+Vidrio de cal y sosa: 75 % SiO2, 15%, Na2O, 8% CaO, 2% Al2O3
+
+Vidrio Pyrex: 80% SiO2, 4% Na2O, 12% B2O3, 3% Al2O3, 0.4% CaO, 0.6% K2O
+Ácido Silícico:
+
+El dióxido de silicio es el anhídrido del ácido ortosilícico, H4SiO4, pero la reacción no es reversible:
+
+H4SiO4 => 2H2O + SiO2
+
+Cuando se deshidrata el ácido ortosilícico, son posibles teóricamente diversos ácidos que representan diversos grados de hidratación del SiO2. Algunos de ellos están indicados en la siguiente tabla:
+
+Ácido Ortosilícico
+	
+
+H4SiO4 ( SiO2 2H2O)
+
+Ácido Metasilícico
+	
+
+H2SiO3 ( SiO2 H2O )
+
+Ácido Disilícico
+	
+
+H6Si2O7 ( 2SiO2 3H2O )
+
+Ácido Trisilícico
+	
+
+H4Si3O8 ( 3SiO2 2H2O )
+
+Si se añade ácido a una disolución de silicato de sodio se forma inmediatamente un precipitado gelatinoso de ácido silícico. Pero si el silicato se vierte sobre el Ácido no hay precipitación, y el Ácido silícico queda en suspensión coloidal. El precipitado primeramente obtenido corresponde a la formula H4SiO4
+
+El ácido silícico incompletamente deshidratado que se obtiene calentando la sustancia precipitada en vacío a 300 ºC, contiene alrededor del 6% de agua, y se llama gel de sílice. Se emplea como desecante decolorante y adsorbente de vapores valiosos tales como los de gasolina y disolventes orgánicos.
+
+

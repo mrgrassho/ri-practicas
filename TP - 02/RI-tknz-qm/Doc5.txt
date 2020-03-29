@@ -1,0 +1,41 @@
+El oxido berilio fue descubierto al analizar una esmeralda la cual posee la igual composición que el mineral berilio, (SiO3)6Al2Be3. Por el sabor dulce de sus compuestos, el oxido, recibió el nombre de glucina, pero se prefirió cambiables por berilia. El oxido de berilio que comprende una clase de esmeralda y aguamarina es el único origen del elemento.
+
+El magnesio como metal no existe en estado natural. El carbonato constituye el mineral magnesita, El sulfato y el clorato forman parte de las sales dobles de la mina de Stassfurt, en fuentes minerales y en aguas del mar. Los silicato poseen importancia económica: el talco, (SiO3)H2Mg3, El asbesto, (SiO3)Mg3Ca, etc. están distribuidos abundantemente por todo el mundo.
+
+El calcio no se encuentra como metales la naturaleza pero se encuentra en forma abundante como carbonato, el cual se presenta en formas múltiples como piedra caliza, cascara de huevo, corales, mármol, espato de Islandia, etc. También se encuentra como Fluoruro, Fluorita o espatofluor, CaF2, y como fosfato, apatito y fosforita, Ca2(PO4)2, y en muchos silicatos compuestos.
+Obtención
+
+La obtención del berilio consta en tratar berilio pulverizado con ácido sulfúrico se obtiene sulfato de berilio; este se calienta obteniéndose oxido, que sirve para la preparación de otros compuestos. El metal se obtiene por electrólisis del fluoruro o del cloruro anhidro fundido, o bien por reducción del cloruro con sodio o magnesio.
+
+El magnesio se puede obtener
+
+a)       por electrólisis del cloruro de magnesio anhidro fundido, al que se añade algo de cloruro sódico o de potasio para reducir el punto de fusión e incrementar la conductividad. Unas calderas de hierro colado o de acero sirven de cátodo, una barra de grafito como ánodo, protegido por una campana de porcelana través de la cual escapa el cloro; el magnesio sube por la superficie del electrolito contenido en el compartimiento exterior, pues tiene menor densidad que la de las sales fundidas. También se produce magnesio por electrólisis de una mezcla de oxido de magnesio en un baño de fluoruromagnésico fundido.
+
+b)       Otros métodos, el magnesio se puede obtener calentando el carbonato o el hidróxido y reduciendo el oxido formado mediante el carbón. La reacción se verifica fuera del contacto del aire; el vapor de magnesio se reduce a polvo enfriándolo con una corriente de hidrogeno o gas natural enfriado, para evitar que la reacción MgO + C Û MgO + CO se invierta. Existe un método para la reducción de oxido de magnesio con ferrosilicio y dolmita calcinada (MgO y CaO) se calienta en retortas de acero a 1150ºC. el silicio reduce el oxido de magnesio;
+
+2MgO + Si => 2Mg­ + SiO2
+
+La cal se combina con el SiO2 para formar silicato cálcico, el magnesio se condensa en el revestimiento refrigerante.
+Propiedad 	Berilio 	Magnesio 	Calcio
+P. de ebullición 	2970 	1090 	1489
+P. de fusión 	1.278 	648.8 	839
+Electronegatividad 	1.5 	1.2 	1.0
+Pot. de ionización 	9.322 	7.646 	6.113
+
+ 
+Propiedad 	Estroncio 	Bario 	Radio
+P. de ebullición 	1384 	1640 	1140
+P. de fusión 	769 	725 	700
+Electronegatividad 	1.0 	1.02 	0.9
+Pot. de ionización 	5.695 	5.212 	5.279
+Reacción con el hidrogeno
+
+Las reacciones del hidrogeno con los metales del grupo II no son muy rápidas, estos compuestos son iónicos sólidos blancos a temperatura ambiente, se descomponen en sus elementos por calentamiento antes de llegar a su punto de fusión. La fusión puede llegar a ser alcanzada agregando una mezcla de sustancias (en este caso cloruro de litio y cloruro de potasio), llamada fúndente y hace que el compuesto baje su punto de fusión.
+Reacción con los halógenos
+Cloruro de magnesio
+
+El cloruro de magnesio, materia prima para la obtención de magnesio, se extrae de las salmueras subterráneas que contienen un 3% de Cl2Mg, 9% de Cl2Ca, 14% de ClNa y 0.1% de Br-. En primer lugar se elimina el bromo; precipita el hierro y otras sales mediante una suspensión de hidróxido de magnesio, y el filtrado se evapora para que cristalice primero el cloruro de sodio y luego el de magnesio, Cl2Mg-6H2O, que se deshidrata en una atmósfera de cloruro de hidrogeno para evitar la hidrólisis y la formación de oxido de magnesio.
+
+El cloruro de magnesio al calentarse desprende HCl, por esto no puede utilizarse agua de mar en las calderas sin que se destruyan pronto los tubos.
+
+magnesio

@@ -1,0 +1,305 @@
+ [+] Predicting ../languageIdentificationData/test: [............................] 0/300 [+] Predicting ../languageIdentificationData/test: [............................] 1/300 [+] Predicting ../languageIdentificationData/test: [............................] 2/300 [+] Predicting ../languageIdentificationData/test: [............................] 3/300 [+] Predicting ../languageIdentificationData/test: [............................] 4/300 [+] Predicting ../languageIdentificationData/test: [............................] 5/300 [+] Predicting ../languageIdentificationData/test: [............................] 6/300 [+] Predicting ../languageIdentificationData/test: [............................] 7/300 [+] Predicting ../languageIdentificationData/test: [............................] 8/300 [+] Predicting ../languageIdentificationData/test: [............................] 9/300 [+] Predicting ../languageIdentificationData/test: [............................] 10/300 [+] Predicting ../languageIdentificationData/test: [#...........................] 11/300 [+] Predicting ../languageIdentificationData/test: [#...........................] 12/300 [+] Predicting ../languageIdentificationData/test: [#...........................] 13/300 [+] Predicting ../languageIdentificationData/test: [#...........................] 14/300 [+] Predicting ../languageIdentificationData/test: [#...........................] 15/300 [+] Predicting ../languageIdentificationData/test: [#...........................] 16/300 [+] Predicting ../languageIdentificationData/test: [#...........................] 17/300 [+] Predicting ../languageIdentificationData/test: [#...........................] 18/300 [+] Predicting ../languageIdentificationData/test: [#...........................] 19/300 [+] Predicting ../languageIdentificationData/test: [#...........................] 20/300 [+] Predicting ../languageIdentificationData/test: [#...........................] 21/300 [+] Predicting ../languageIdentificationData/test: [##..........................] 22/300 [+] Predicting ../languageIdentificationData/test: [##..........................] 23/300 [+] Predicting ../languageIdentificationData/test: [##..........................] 24/300 [+] Predicting ../languageIdentificationData/test: [##..........................] 25/300 [+] Predicting ../languageIdentificationData/test: [##..........................] 26/300 [+] Predicting ../languageIdentificationData/test: [##..........................] 27/300 [+] Predicting ../languageIdentificationData/test: [##..........................] 28/300 [+] Predicting ../languageIdentificationData/test: [##..........................] 29/300 [+] Predicting ../languageIdentificationData/test: [##..........................] 30/300 [+] Predicting ../languageIdentificationData/test: [##..........................] 31/300 [+] Predicting ../languageIdentificationData/test: [##..........................] 32/300 [+] Predicting ../languageIdentificationData/test: [###.........................] 33/300 [+] Predicting ../languageIdentificationData/test: [###.........................] 34/300 [+] Predicting ../languageIdentificationData/test: [###.........................] 35/300 [+] Predicting ../languageIdentificationData/test: [###.........................] 36/300 [+] Predicting ../languageIdentificationData/test: [###.........................] 37/300 [+] Predicting ../languageIdentificationData/test: [###.........................] 38/300 [+] Predicting ../languageIdentificationData/test: [###.........................] 39/300 [+] Predicting ../languageIdentificationData/test: [###.........................] 40/300 [+] Predicting ../languageIdentificationData/test: [###.........................] 41/300 [+] Predicting ../languageIdentificationData/test: [###.........................] 42/300 [+] Predicting ../languageIdentificationData/test: [####........................] 43/300 [+] Predicting ../languageIdentificationData/test: [####........................] 44/300 [+] Predicting ../languageIdentificationData/test: [####........................] 45/300 [+] Predicting ../languageIdentificationData/test: [####........................] 46/300 [+] Predicting ../languageIdentificationData/test: [####........................] 47/300 [+] Predicting ../languageIdentificationData/test: [####........................] 48/300 [+] Predicting ../languageIdentificationData/test: [####........................] 49/300 [+] Predicting ../languageIdentificationData/test: [####........................] 50/300 [+] Predicting ../languageIdentificationData/test: [####........................] 51/300 [+] Predicting ../languageIdentificationData/test: [####........................] 52/300 [+] Predicting ../languageIdentificationData/test: [####........................] 53/300 [+] Predicting ../languageIdentificationData/test: [#####.......................] 54/300 [+] Predicting ../languageIdentificationData/test: [#####.......................] 55/300 [+] Predicting ../languageIdentificationData/test: [#####.......................] 56/300 [+] Predicting ../languageIdentificationData/test: [#####.......................] 57/300 [+] Predicting ../languageIdentificationData/test: [#####.......................] 58/300 [+] Predicting ../languageIdentificationData/test: [#####.......................] 59/300 [+] Predicting ../languageIdentificationData/test: [#####.......................] 60/300 [+] Predicting ../languageIdentificationData/test: [#####.......................] 61/300 [+] Predicting ../languageIdentificationData/test: [#####.......................] 62/300 [+] Predicting ../languageIdentificationData/test: [#####.......................] 63/300 [+] Predicting ../languageIdentificationData/test: [#####.......................] 64/300 [+] Predicting ../languageIdentificationData/test: [######......................] 65/300 [+] Predicting ../languageIdentificationData/test: [######......................] 66/300 [+] Predicting ../languageIdentificationData/test: [######......................] 67/300 [+] Predicting ../languageIdentificationData/test: [######......................] 68/300 [+] Predicting ../languageIdentificationData/test: [######......................] 69/300 [+] Predicting ../languageIdentificationData/test: [######......................] 70/300 [+] Predicting ../languageIdentificationData/test: [######......................] 71/300 [+] Predicting ../languageIdentificationData/test: [######......................] 72/300 [+] Predicting ../languageIdentificationData/test: [######......................] 73/300 [+] Predicting ../languageIdentificationData/test: [######......................] 74/300 [+] Predicting ../languageIdentificationData/test: [#######.....................] 75/300 [+] Predicting ../languageIdentificationData/test: [#######.....................] 76/300 [+] Predicting ../languageIdentificationData/test: [#######.....................] 77/300 [+] Predicting ../languageIdentificationData/test: [#######.....................] 78/300 [+] Predicting ../languageIdentificationData/test: [#######.....................] 79/300 [+] Predicting ../languageIdentificationData/test: [#######.....................] 80/300 [+] Predicting ../languageIdentificationData/test: [#######.....................] 81/300 [+] Predicting ../languageIdentificationData/test: [#######.....................] 82/300 [+] Predicting ../languageIdentificationData/test: [#######.....................] 83/300 [+] Predicting ../languageIdentificationData/test: [#######.....................] 84/300 [+] Predicting ../languageIdentificationData/test: [#######.....................] 85/300 [+] Predicting ../languageIdentificationData/test: [########....................] 86/300 [+] Predicting ../languageIdentificationData/test: [########....................] 87/300 [+] Predicting ../languageIdentificationData/test: [########....................] 88/300 [+] Predicting ../languageIdentificationData/test: [########....................] 89/300 [+] Predicting ../languageIdentificationData/test: [########....................] 90/300 [+] Predicting ../languageIdentificationData/test: [########....................] 91/300 [+] Predicting ../languageIdentificationData/test: [########....................] 92/300 [+] Predicting ../languageIdentificationData/test: [########....................] 93/300 [+] Predicting ../languageIdentificationData/test: [########....................] 94/300 [+] Predicting ../languageIdentificationData/test: [########....................] 95/300 [+] Predicting ../languageIdentificationData/test: [########....................] 96/300 [+] Predicting ../languageIdentificationData/test: [#########...................] 97/300 [+] Predicting ../languageIdentificationData/test: [#########...................] 98/300 [+] Predicting ../languageIdentificationData/test: [#########...................] 99/300 [+] Predicting ../languageIdentificationData/test: [#########...................] 100/300 [+] Predicting ../languageIdentificationData/test: [#########...................] 101/300 [+] Predicting ../languageIdentificationData/test: [#########...................] 102/300 [+] Predicting ../languageIdentificationData/test: [#########...................] 103/300 [+] Predicting ../languageIdentificationData/test: [#########...................] 104/300 [+] Predicting ../languageIdentificationData/test: [#########...................] 105/300 [+] Predicting ../languageIdentificationData/test: [#########...................] 106/300 [+] Predicting ../languageIdentificationData/test: [#########...................] 107/300 [+] Predicting ../languageIdentificationData/test: [##########..................] 108/300 [+] Predicting ../languageIdentificationData/test: [##########..................] 109/300 [+] Predicting ../languageIdentificationData/test: [##########..................] 110/300 [+] Predicting ../languageIdentificationData/test: [##########..................] 111/300 [+] Predicting ../languageIdentificationData/test: [##########..................] 112/300 [+] Predicting ../languageIdentificationData/test: [##########..................] 113/300 [+] Predicting ../languageIdentificationData/test: [##########..................] 114/300 [+] Predicting ../languageIdentificationData/test: [##########..................] 115/300 [+] Predicting ../languageIdentificationData/test: [##########..................] 116/300 [+] Predicting ../languageIdentificationData/test: [##########..................] 117/300 [+] Predicting ../languageIdentificationData/test: [###########.................] 118/300 [+] Predicting ../languageIdentificationData/test: [###########.................] 119/300 [+] Predicting ../languageIdentificationData/test: [###########.................] 120/300 [+] Predicting ../languageIdentificationData/test: [###########.................] 121/300 [+] Predicting ../languageIdentificationData/test: [###########.................] 122/300 [+] Predicting ../languageIdentificationData/test: [###########.................] 123/300 [+] Predicting ../languageIdentificationData/test: [###########.................] 124/300 [+] Predicting ../languageIdentificationData/test: [###########.................] 125/300 [+] Predicting ../languageIdentificationData/test: [###########.................] 126/300 [+] Predicting ../languageIdentificationData/test: [###########.................] 127/300 [+] Predicting ../languageIdentificationData/test: [###########.................] 128/300 [+] Predicting ../languageIdentificationData/test: [############................] 129/300 [+] Predicting ../languageIdentificationData/test: [############................] 130/300 [+] Predicting ../languageIdentificationData/test: [############................] 131/300 [+] Predicting ../languageIdentificationData/test: [############................] 132/300 [+] Predicting ../languageIdentificationData/test: [############................] 133/300 [+] Predicting ../languageIdentificationData/test: [############................] 134/300 [+] Predicting ../languageIdentificationData/test: [############................] 135/300 [+] Predicting ../languageIdentificationData/test: [############................] 136/300 [+] Predicting ../languageIdentificationData/test: [############................] 137/300 [+] Predicting ../languageIdentificationData/test: [############................] 138/300 [+] Predicting ../languageIdentificationData/test: [############................] 139/300 [+] Predicting ../languageIdentificationData/test: [#############...............] 140/300 [+] Predicting ../languageIdentificationData/test: [#############...............] 141/300 [+] Predicting ../languageIdentificationData/test: [#############...............] 142/300 [+] Predicting ../languageIdentificationData/test: [#############...............] 143/300 [+] Predicting ../languageIdentificationData/test: [#############...............] 144/300 [+] Predicting ../languageIdentificationData/test: [#############...............] 145/300 [+] Predicting ../languageIdentificationData/test: [#############...............] 146/300 [+] Predicting ../languageIdentificationData/test: [#############...............] 147/300 [+] Predicting ../languageIdentificationData/test: [#############...............] 148/300 [+] Predicting ../languageIdentificationData/test: [#############...............] 149/300 [+] Predicting ../languageIdentificationData/test: [##############..............] 150/300 [+] Predicting ../languageIdentificationData/test: [##############..............] 151/300 [+] Predicting ../languageIdentificationData/test: [##############..............] 152/300 [+] Predicting ../languageIdentificationData/test: [##############..............] 153/300 [+] Predicting ../languageIdentificationData/test: [##############..............] 154/300 [+] Predicting ../languageIdentificationData/test: [##############..............] 155/300 [+] Predicting ../languageIdentificationData/test: [##############..............] 156/300 [+] Predicting ../languageIdentificationData/test: [##############..............] 157/300 [+] Predicting ../languageIdentificationData/test: [##############..............] 158/300 [+] Predicting ../languageIdentificationData/test: [##############..............] 159/300 [+] Predicting ../languageIdentificationData/test: [##############..............] 160/300 [+] Predicting ../languageIdentificationData/test: [###############.............] 161/300 [+] Predicting ../languageIdentificationData/test: [###############.............] 162/300 [+] Predicting ../languageIdentificationData/test: [###############.............] 163/300 [+] Predicting ../languageIdentificationData/test: [###############.............] 164/300 [+] Predicting ../languageIdentificationData/test: [###############.............] 165/300 [+] Predicting ../languageIdentificationData/test: [###############.............] 166/300 [+] Predicting ../languageIdentificationData/test: [###############.............] 167/300 [+] Predicting ../languageIdentificationData/test: [###############.............] 168/300 [+] Predicting ../languageIdentificationData/test: [###############.............] 169/300 [+] Predicting ../languageIdentificationData/test: [###############.............] 170/300 [+] Predicting ../languageIdentificationData/test: [###############.............] 171/300 [+] Predicting ../languageIdentificationData/test: [################............] 172/300 [+] Predicting ../languageIdentificationData/test: [################............] 173/300 [+] Predicting ../languageIdentificationData/test: [################............] 174/300 [+] Predicting ../languageIdentificationData/test: [################............] 175/300 [+] Predicting ../languageIdentificationData/test: [################............] 176/300 [+] Predicting ../languageIdentificationData/test: [################............] 177/300 [+] Predicting ../languageIdentificationData/test: [################............] 178/300 [+] Predicting ../languageIdentificationData/test: [################............] 179/300 [+] Predicting ../languageIdentificationData/test: [################............] 180/300 [+] Predicting ../languageIdentificationData/test: [################............] 181/300 [+] Predicting ../languageIdentificationData/test: [################............] 182/300 [+] Predicting ../languageIdentificationData/test: [#################...........] 183/300 [+] Predicting ../languageIdentificationData/test: [#################...........] 184/300 [+] Predicting ../languageIdentificationData/test: [#################...........] 185/300 [+] Predicting ../languageIdentificationData/test: [#################...........] 186/300 [+] Predicting ../languageIdentificationData/test: [#################...........] 187/300 [+] Predicting ../languageIdentificationData/test: [#################...........] 188/300 [+] Predicting ../languageIdentificationData/test: [#################...........] 189/300 [+] Predicting ../languageIdentificationData/test: [#################...........] 190/300 [+] Predicting ../languageIdentificationData/test: [#################...........] 191/300 [+] Predicting ../languageIdentificationData/test: [#################...........] 192/300 [+] Predicting ../languageIdentificationData/test: [##################..........] 193/300 [+] Predicting ../languageIdentificationData/test: [##################..........] 194/300 [+] Predicting ../languageIdentificationData/test: [##################..........] 195/300 [+] Predicting ../languageIdentificationData/test: [##################..........] 196/300 [+] Predicting ../languageIdentificationData/test: [##################..........] 197/300 [+] Predicting ../languageIdentificationData/test: [##################..........] 198/300 [+] Predicting ../languageIdentificationData/test: [##################..........] 199/300 [+] Predicting ../languageIdentificationData/test: [##################..........] 200/300 [+] Predicting ../languageIdentificationData/test: [##################..........] 201/300 [+] Predicting ../languageIdentificationData/test: [##################..........] 202/300 [+] Predicting ../languageIdentificationData/test: [##################..........] 203/300 [+] Predicting ../languageIdentificationData/test: [###################.........] 204/300 [+] Predicting ../languageIdentificationData/test: [###################.........] 205/300 [+] Predicting ../languageIdentificationData/test: [###################.........] 206/300 [+] Predicting ../languageIdentificationData/test: [###################.........] 207/300 [+] Predicting ../languageIdentificationData/test: [###################.........] 208/300 [+] Predicting ../languageIdentificationData/test: [###################.........] 209/300 [+] Predicting ../languageIdentificationData/test: [###################.........] 210/300 [+] Predicting ../languageIdentificationData/test: [###################.........] 211/300 [+] Predicting ../languageIdentificationData/test: [###################.........] 212/300 [+] Predicting ../languageIdentificationData/test: [###################.........] 213/300 [+] Predicting ../languageIdentificationData/test: [###################.........] 214/300 [+] Predicting ../languageIdentificationData/test: [####################........] 215/300 [+] Predicting ../languageIdentificationData/test: [####################........] 216/300 [+] Predicting ../languageIdentificationData/test: [####################........] 217/300 [+] Predicting ../languageIdentificationData/test: [####################........] 218/300 [+] Predicting ../languageIdentificationData/test: [####################........] 219/300 [+] Predicting ../languageIdentificationData/test: [####################........] 220/300 [+] Predicting ../languageIdentificationData/test: [####################........] 221/300 [+] Predicting ../languageIdentificationData/test: [####################........] 222/300 [+] Predicting ../languageIdentificationData/test: [####################........] 223/300 [+] Predicting ../languageIdentificationData/test: [####################........] 224/300 [+] Predicting ../languageIdentificationData/test: [#####################.......] 225/300 [+] Predicting ../languageIdentificationData/test: [#####################.......] 226/300 [+] Predicting ../languageIdentificationData/test: [#####################.......] 227/300 [+] Predicting ../languageIdentificationData/test: [#####################.......] 228/300 [+] Predicting ../languageIdentificationData/test: [#####################.......] 229/300 [+] Predicting ../languageIdentificationData/test: [#####################.......] 230/300 [+] Predicting ../languageIdentificationData/test: [#####################.......] 231/300 [+] Predicting ../languageIdentificationData/test: [#####################.......] 232/300 [+] Predicting ../languageIdentificationData/test: [#####################.......] 233/300 [+] Predicting ../languageIdentificationData/test: [#####################.......] 234/300 [+] Predicting ../languageIdentificationData/test: [#####################.......] 235/300 [+] Predicting ../languageIdentificationData/test: [######################......] 236/300 [+] Predicting ../languageIdentificationData/test: [######################......] 237/300 [+] Predicting ../languageIdentificationData/test: [######################......] 238/300 [+] Predicting ../languageIdentificationData/test: [######################......] 239/300 [+] Predicting ../languageIdentificationData/test: [######################......] 240/300 [+] Predicting ../languageIdentificationData/test: [######################......] 241/300 [+] Predicting ../languageIdentificationData/test: [######################......] 242/300 [+] Predicting ../languageIdentificationData/test: [######################......] 243/300 [+] Predicting ../languageIdentificationData/test: [######################......] 244/300 [+] Predicting ../languageIdentificationData/test: [######################......] 245/300 [+] Predicting ../languageIdentificationData/test: [######################......] 246/300 [+] Predicting ../languageIdentificationData/test: [#######################.....] 247/300 [+] Predicting ../languageIdentificationData/test: [#######################.....] 248/300 [+] Predicting ../languageIdentificationData/test: [#######################.....] 249/300 [+] Predicting ../languageIdentificationData/test: [#######################.....] 250/300 [+] Predicting ../languageIdentificationData/test: [#######################.....] 251/300 [+] Predicting ../languageIdentificationData/test: [#######################.....] 252/300 [+] Predicting ../languageIdentificationData/test: [#######################.....] 253/300 [+] Predicting ../languageIdentificationData/test: [#######################.....] 254/300 [+] Predicting ../languageIdentificationData/test: [#######################.....] 255/300 [+] Predicting ../languageIdentificationData/test: [#######################.....] 256/300 [+] Predicting ../languageIdentificationData/test: [#######################.....] 257/300 [+] Predicting ../languageIdentificationData/test: [########################....] 258/300 [+] Predicting ../languageIdentificationData/test: [########################....] 259/300 [+] Predicting ../languageIdentificationData/test: [########################....] 260/300 [+] Predicting ../languageIdentificationData/test: [########################....] 261/300 [+] Predicting ../languageIdentificationData/test: [########################....] 262/300 [+] Predicting ../languageIdentificationData/test: [########################....] 263/300 [+] Predicting ../languageIdentificationData/test: [########################....] 264/300 [+] Predicting ../languageIdentificationData/test: [########################....] 265/300 [+] Predicting ../languageIdentificationData/test: [########################....] 266/300 [+] Predicting ../languageIdentificationData/test: [########################....] 267/300 [+] Predicting ../languageIdentificationData/test: [#########################...] 268/300 [+] Predicting ../languageIdentificationData/test: [#########################...] 269/300 [+] Predicting ../languageIdentificationData/test: [#########################...] 270/300 [+] Predicting ../languageIdentificationData/test: [#########################...] 271/300 [+] Predicting ../languageIdentificationData/test: [#########################...] 272/300 [+] Predicting ../languageIdentificationData/test: [#########################...] 273/300 [+] Predicting ../languageIdentificationData/test: [#########################...] 274/300 [+] Predicting ../languageIdentificationData/test: [#########################...] 275/300 [+] Predicting ../languageIdentificationData/test: [#########################...] 276/300 [+] Predicting ../languageIdentificationData/test: [#########################...] 277/300 [+] Predicting ../languageIdentificationData/test: [#########################...] 278/300 [+] Predicting ../languageIdentificationData/test: [##########################..] 279/300 [+] Predicting ../languageIdentificationData/test: [##########################..] 280/300 [+] Predicting ../languageIdentificationData/test: [##########################..] 281/300 [+] Predicting ../languageIdentificationData/test: [##########################..] 282/300 [+] Predicting ../languageIdentificationData/test: [##########################..] 283/300 [+] Predicting ../languageIdentificationData/test: [##########################..] 284/300 [+] Predicting ../languageIdentificationData/test: [##########################..] 285/300 [+] Predicting ../languageIdentificationData/test: [##########################..] 286/300 [+] Predicting ../languageIdentificationData/test: [##########################..] 287/300 [+] Predicting ../languageIdentificationData/test: [##########################..] 288/300 [+] Predicting ../languageIdentificationData/test: [##########################..] 289/300 [+] Predicting ../languageIdentificationData/test: [###########################.] 290/300 [+] Predicting ../languageIdentificationData/test: [###########################.] 291/300 [+] Predicting ../languageIdentificationData/test: [###########################.] 292/300 [+] Predicting ../languageIdentificationData/test: [###########################.] 293/300 [+] Predicting ../languageIdentificationData/test: [###########################.] 294/300 [+] Predicting ../languageIdentificationData/test: [###########################.] 295/300 [+] Predicting ../languageIdentificationData/test: [###########################.] 296/300 [+] Predicting ../languageIdentificationData/test: [###########################.] 297/300 [+] Predicting ../languageIdentificationData/test: [###########################.] 298/300 [+] Predicting ../languageIdentificationData/test: [###########################.] 299/300 [+] Predicting ../languageIdentificationData/test: [############################] 300/300
+ [+] 0 - italian OK
+ [+] 1 - english OK
+ [+] 2 - italian OK
+ [+] 3 - french OK
+ [+] 4 - french OK
+ [+] 5 - english OK
+ [+] 6 - english OK
+ [+] 7 - english OK
+ [+] 8 - french OK
+ [+] 9 - french OK
+ [+] 10 - english OK
+ [+] 11 - italian OK
+ [+] 12 - english OK
+ [+] 13 - english OK
+ [+] 14 - french OK
+ [+] 15 - english OK
+ [+] 16 - french OK
+ [+] 17 - french OK
+ [+] 18 - italian OK
+ [+] 19 - english OK
+ [+] 20 - italian OK
+ [+] 21 - french OK
+ [+] 22 - italian OK
+ [+] 23 - french OK
+ [+] 24 - italian OK
+ [+] 25 - english OK
+ [+] 26 - english OK
+ [!] 27 - de - Expected: english FAILED
+ [+] 28 - english OK
+ [+] 29 - english OK
+ [+] 30 - english OK
+ [+] 31 - english OK
+ [+] 32 - english OK
+ [+] 33 - french OK
+ [+] 34 - french OK
+ [+] 35 - italian OK
+ [+] 36 - french OK
+ [+] 37 - english OK
+ [+] 38 - french OK
+ [+] 39 - italian OK
+ [+] 40 - italian OK
+ [+] 41 - french OK
+ [+] 42 - italian OK
+ [+] 43 - italian OK
+ [+] 44 - french OK
+ [+] 45 - italian OK
+ [+] 46 - french OK
+ [+] 47 - italian OK
+ [+] 48 - french OK
+ [+] 49 - italian OK
+ [+] 50 - english OK
+ [+] 51 - italian OK
+ [+] 52 - italian OK
+ [+] 53 - italian OK
+ [+] 54 - italian OK
+ [+] 55 - italian OK
+ [+] 56 - italian OK
+ [+] 57 - english OK
+ [+] 58 - french OK
+ [+] 59 - french OK
+ [+] 60 - italian OK
+ [+] 61 - french OK
+ [+] 62 - english OK
+ [+] 63 - italian OK
+ [+] 64 - italian OK
+ [+] 65 - french OK
+ [+] 66 - french OK
+ [+] 67 - english OK
+ [+] 68 - italian OK
+ [+] 69 - italian OK
+ [+] 70 - english OK
+ [+] 71 - italian OK
+ [+] 72 - english OK
+ [+] 73 - english OK
+ [+] 74 - english OK
+ [+] 75 - english OK
+ [+] 76 - english OK
+ [+] 77 - italian OK
+ [+] 78 - italian OK
+ [+] 79 - italian OK
+ [+] 80 - italian OK
+ [+] 81 - english OK
+ [+] 82 - italian OK
+ [+] 83 - english OK
+ [+] 84 - italian OK
+ [+] 85 - english OK
+ [!] 86 - id - Expected: english FAILED
+ [+] 87 - english OK
+ [+] 88 - english OK
+ [+] 89 - french OK
+ [+] 90 - italian OK
+ [+] 91 - english OK
+ [+] 92 - french OK
+ [+] 93 - english OK
+ [+] 94 - italian OK
+ [+] 95 - italian OK
+ [+] 96 - italian OK
+ [+] 97 - italian OK
+ [+] 98 - french OK
+ [+] 99 - english OK
+ [+] 100 - french OK
+ [+] 101 - italian OK
+ [+] 102 - english OK
+ [+] 103 - english OK
+ [+] 104 - french OK
+ [+] 105 - french OK
+ [+] 106 - french OK
+ [+] 107 - french OK
+ [+] 108 - french OK
+ [+] 109 - french OK
+ [+] 110 - french OK
+ [+] 111 - french OK
+ [!] 112 - ca - Expected: english FAILED
+ [+] 113 - english OK
+ [+] 114 - french OK
+ [+] 115 - english OK
+ [+] 116 - italian OK
+ [!] 117 - es - Expected: italian FAILED
+ [+] 118 - italian OK
+ [+] 119 - italian OK
+ [+] 120 - italian OK
+ [+] 121 - italian OK
+ [+] 122 - english OK
+ [+] 123 - english OK
+ [+] 124 - english OK
+ [+] 125 - french OK
+ [+] 126 - italian OK
+ [+] 127 - english OK
+ [+] 128 - french OK
+ [+] 129 - italian OK
+ [+] 130 - french OK
+ [+] 131 - french OK
+ [+] 132 - french OK
+ [+] 133 - english OK
+ [+] 134 - italian OK
+ [+] 135 - french OK
+ [+] 136 - english OK
+ [+] 137 - french OK
+ [+] 138 - french OK
+ [+] 139 - english OK
+ [+] 140 - french OK
+ [+] 141 - english OK
+ [+] 142 - english OK
+ [+] 143 - french OK
+ [+] 144 - italian OK
+ [+] 145 - french OK
+ [+] 146 - french OK
+ [+] 147 - italian OK
+ [+] 148 - italian OK
+ [+] 149 - french OK
+ [+] 150 - italian OK
+ [+] 151 - english OK
+ [+] 152 - english OK
+ [+] 153 - french OK
+ [+] 154 - italian OK
+ [+] 155 - english OK
+ [+] 156 - french OK
+ [+] 157 - french OK
+ [+] 158 - italian OK
+ [+] 159 - french OK
+ [+] 160 - french OK
+ [+] 161 - english OK
+ [+] 162 - english OK
+ [+] 163 - french OK
+ [+] 164 - english OK
+ [+] 165 - english OK
+ [+] 166 - french OK
+ [+] 167 - italian OK
+ [+] 168 - italian OK
+ [+] 169 - english OK
+ [+] 170 - italian OK
+ [+] 171 - italian OK
+ [+] 172 - french OK
+ [+] 173 - english OK
+ [+] 174 - italian OK
+ [+] 175 - french OK
+ [+] 176 - italian OK
+ [+] 177 - english OK
+ [+] 178 - french OK
+ [+] 179 - english OK
+ [+] 180 - italian OK
+ [+] 181 - french OK
+ [+] 182 - french OK
+ [+] 183 - italian OK
+ [+] 184 - french OK
+ [+] 185 - italian OK
+ [+] 186 - italian OK
+ [+] 187 - french OK
+ [+] 188 - french OK
+ [+] 189 - italian OK
+ [+] 190 - french OK
+ [+] 191 - english OK
+ [+] 192 - french OK
+ [+] 193 - english OK
+ [+] 194 - french OK
+ [+] 195 - english OK
+ [+] 196 - french OK
+ [+] 197 - french OK
+ [+] 198 - italian OK
+ [+] 199 - italian OK
+ [!] 200 - so - Expected: english FAILED
+ [+] 201 - french OK
+ [+] 202 - english OK
+ [+] 203 - italian OK
+ [+] 204 - french OK
+ [+] 205 - english OK
+ [+] 206 - english OK
+ [+] 207 - french OK
+ [+] 208 - english OK
+ [+] 209 - french OK
+ [+] 210 - italian OK
+ [+] 211 - french OK
+ [+] 212 - french OK
+ [+] 213 - italian OK
+ [+] 214 - english OK
+ [+] 215 - english OK
+ [+] 216 - italian OK
+ [+] 217 - french OK
+ [+] 218 - french OK
+ [+] 219 - english OK
+ [+] 220 - french OK
+ [+] 221 - english OK
+ [+] 222 - italian OK
+ [+] 223 - english OK
+ [+] 224 - italian OK
+ [+] 225 - italian OK
+ [+] 226 - italian OK
+ [+] 227 - french OK
+ [+] 228 - italian OK
+ [+] 229 - english OK
+ [+] 230 - english OK
+ [+] 231 - italian OK
+ [+] 232 - english OK
+ [+] 233 - italian OK
+ [+] 234 - french OK
+ [+] 235 - english OK
+ [+] 236 - english OK
+ [+] 237 - italian OK
+ [+] 238 - english OK
+ [+] 239 - french OK
+ [+] 240 - french OK
+ [+] 241 - italian OK
+ [+] 242 - english OK
+ [+] 243 - italian OK
+ [+] 244 - english OK
+ [+] 245 - italian OK
+ [+] 246 - italian OK
+ [+] 247 - italian OK
+ [+] 248 - english OK
+ [+] 249 - english OK
+ [+] 250 - english OK
+ [+] 251 - french OK
+ [+] 252 - english OK
+ [+] 253 - italian OK
+ [+] 254 - english OK
+ [+] 255 - english OK
+ [+] 256 - italian OK
+ [+] 257 - italian OK
+ [+] 258 - italian OK
+ [+] 259 - english OK
+ [+] 260 - italian OK
+ [+] 261 - italian OK
+ [+] 262 - italian OK
+ [+] 263 - french OK
+ [+] 264 - english OK
+ [+] 265 - french OK
+ [+] 266 - french OK
+ [+] 267 - italian OK
+ [+] 268 - english OK
+ [+] 269 - french OK
+ [+] 270 - english OK
+ [+] 271 - french OK
+ [+] 272 - english OK
+ [+] 273 - english OK
+ [+] 274 - italian OK
+ [+] 275 - french OK
+ [+] 276 - italian OK
+ [+] 277 - english OK
+ [+] 278 - french OK
+ [+] 279 - french OK
+ [+] 280 - english OK
+ [+] 281 - english OK
+ [+] 282 - french OK
+ [+] 283 - italian OK
+ [+] 284 - french OK
+ [+] 285 - french OK
+ [+] 286 - english OK
+ [+] 287 - french OK
+ [+] 288 - italian OK
+ [+] 289 - italian OK
+ [+] 290 - french OK
+ [+] 291 - french OK
+ [+] 292 - french OK
+ [+] 293 - italian OK
+ [+] 294 - french OK
+ [+] 295 - french OK
+ [+] 296 - italian OK
+ [+] 297 - italian OK
+ [+] 298 - french OK
+ [+] 299 - english OK
+ ----------------------------------------
+	Results : 295/300
+ 	Accuracy: 0.9833333333333333
+

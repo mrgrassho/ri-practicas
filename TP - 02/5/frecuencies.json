@@ -1,0 +1,28 @@
+{
+    "least frequent terms": {
+        "s.h": 1,
+        "s.o": 1,
+        "k.a": 1,
+        "t.d": 1,
+        "p.g.w": 1,
+        "pp.119-127": 1,
+        "s.y": 1,
+        "p.a.v": 1,
+        "k.t": 1,
+        "businessm": 1,
+        "unobstruct": 1
+    },
+    "most  frequent terms": {
+        "the": 13833,
+        "and": 6746,
+        "0.000000": 3114,
+        "for": 2533,
+        "that": 1620,
+        "libr": 1602,
+        "inform": 1419,
+        "system": 1245,
+        "thi": 1225,
+        "with": 1169,
+        "which": 1098
+    }
+}

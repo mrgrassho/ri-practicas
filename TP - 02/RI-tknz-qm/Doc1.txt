@@ -1,0 +1,279 @@
+Estado natural:
+
+El oxígeno se encuentra libre en la atmósfera en forma de O2, el cual constituye la quinta parte de su peso y en las altas capas de la atmósfera como O3. Combinado se lo encuentra formando H2O que cubre las 3/4 partes de la superficie terrestre y el mismo constituye 8/9 de su peso, también se lo encuentra formando una gran cantidad de óxidos, oxoácidos, sales oxigenadas, el alcohol, el azúcar, la celulosa y gran cantidad de compuestos orgánicos.
+Obtención:
+
+El oxígeno industrialmente se puedo obtener a partir de la destilación fraccionada del aire líquido. En este procedimiento llamado método de Georges Claude se desprende primero ázoe a -193° y luego el oxígeno a -181°.
+
+El aire esta compuesto por:
+Sustancia
+	
+% En peso
+	
+% En volumen
+Nitrógeno (N2) 	
+75.51
+	
+68.03
+Oxigeno (O2) 	
+23.15
+	
+29.98
+Argón (Ar) 	
+1.29
+	
+0.94
+Dióxido de carbono (CO2). 	
+0.04
+	
+0.03
+Hidrogeno (H2) 	
+0.0007
+	
+0.01
+Helio, Kriptón y Xenón 	
+Vestigios
+	 
+
+Un método químico es el llamado método de Lavoisier el que consiste en el calentamiento de mercurio se oxida a 360° y luego se descompone el óxido.
+
+Hg + O => HgO
+
+En la industria se emplea el método de Boussingault, el cual consiste en el calentamiento de barita u óxido de bario (BaO) que se calienta al aire, al rojo naciente (400° aprox.), combinándose con el Oxigeno para formar bióxido de bario.
+
+BaO + O => BaO2
+
+Calentando en seguida el bióxido de bario hacia 800°; se disocia en barita y oxígeno por la reacción inversa.
+
+BaO2 => BaO + O
+
+Teóricamente la barita puede servir indefinidamente pero en la práctica esto no sucede ya que el gas carbónico contenido en el aire produce carbonato de bario y por esto se debe renovar la barita periódicamente.
+
+Se puede obtener oxígeno a partir de la electrólisis de agua alcalinizada con un 10 o 15% de NaOH. Los electrodos son de hierro. Todo se produce como si el agua estuviese descompuesta, y se recoge el oxígeno en el electrodo positivo y el hidrogeno en el electrodo negativo.
+
+Métodos de laboratorio: Se descompone el agua oxigenada en presencia de un catalizador; se utiliza generalmente el bióxido de manganeso: MnO2.
+
+H2O2 => H2 O + O
+
+En lugar de utilizar H2O2, se puede utilizar el compuesto metálico correspondiente:
+
+Na2O2 ó K2O2
+
+Estos compuestos son destruidos por el agua:
+
+H2O + K2O2 => 2KOH + O
+
+Se puede obtener oxígeno por calcinación de bióxido de manganeso y Clorato de potasio.
+
+3MnO2 => Mn3O4 + O2
+
+ClO3K => KCl + 3O
+
+Realmente no se descompone el clorato de potasio completamente sino hasta una temperatura mucho mas elevada a una temperatura moderada la ecuación correspondiente es la siguiente:
+
+2ClO3K => ClO4K + KCl + O2
+
+Para evitar este inconveniente generalmente se mezcla el clorato de potasio con bióxido de manganeso, en el cual el oxígeno se fija primero y luego inmediatamente lo abandona según las reacciones inversas:
+
+2MnO2 + 3O => Mn2O7
+
+Mn2O7 => 2MnO2 + 3O
+Propiedades físicas:
+
+El oxígeno es un gas s, de densidad 1.1056 en relación con el aire (densidad 0,00143 g/cm³); es incoloro, inodoro e insípido.
+
+Es poco soluble en agua (0.0410 en agua a 0°c ), pero es absorbido en frío mejor que en caliente por algunos metales y ciertos óxidos metálicos como ser la plata fundida, la cual absorbe 22 veces su volumen sin combinación. Cuando la plata se enfría el oxígeno se libera produciendo desgarraduras. El oxígeno licua a una temperatura de -139 °c a una presión de 22.5 atm. y es de un color azulado el cual hierve a -182,5°c. El calor de disociación del oxígeno molecular es de -117.3 Kcal/mol.
+
+El oxígeno se encuentra en dos variedades alotrópicas O2 y O3. También existe el O4 el cual aumenta en proporción con el descenso de la temperatura.
+Propiedad
+	
+Oxigeno
+	
+Ozono
+Ubicación 	Se lo encuentra en la atmósfera en forma de O2 en estado gaseoso 	Se lo encuentra en la atmósfera en forma de O3 en estado gaseoso
+Densidad 	0,00143 g/cm³ 	 
+Color 	Incoloro gaseoso y azul licuado 	Azul claro gaseoso y azul oscuro licuado
+Olor 	Inodoro 	Posee un olor nauseabundo semejante al del cloro.
+P. de ebullición 	-182.5 °C 	-112 °C
+Características 	La molécula de O2 es paramagnética en sus tres estados y es angular. 	La molécula de O3 es diamagnética y angular (117°49’±30’).
+Reactividad 	El oxígeno, directa o indirectamente reacciona con todos los elementos de la naturaleza exceptuando el Flúor y los metales nobles (Au y Pt). La combinación de un cuerpo con oxígeno recibe el nombre de combustión. Esta combinación puede ser acompañada de un gran desprendimiento de calor. 	El ozono posee las mismas propiedades químicas que el oxígeno solo que se producen mas enérgicamente. Es decir que oxidaciones con ozono se producen mayor velocidad que con oxígeno, o en condiciones que con oxígeno no son apreciables.
+Usos 	Se utiliza para las combustiones en las cuales se desea llegar a una temperatura más elevada que si se utiliza aire. Se utiliza para dar a los enfermos y para abastecer de oxígeno a los tripulantes en los aviones ultrasónicos y naves espaciales. El oxígeno se utiliza en los sopletes y principalmente para mejorar los aceros en los altos hornos. 	Se utiliza como desinfectante para la fabricación de aceites secantes. Se usa como desinfectante y antiséptico en la purificación de agua potable.
+Obtención 	El oxígeno puede obtenerse a partir de la descomposición térmica de óxidos (de metales poco reactivos, de los peróxidos, algunos bióxidos y algunas oxisales). Se puede obtener por electrólisis del agua. Por destilación fraccionada del aire liquido. 	El ozono puede obtenerse a partir de oxígeno molecular por calentamiento (por un filamento de platino en contacto con aire liquido) por radiación (por luz con 2.090 Å de long. de onda), eléctricamente (por descarga eléctrica silenciosa).
+  	  	 
+
+El ozono es un importante constituyente natural de la atmósfera, concentrándose principalmente (hasta cerca del 27%) entre las alturas de 15 a 25 km. su formación es causada por la radiación ultravioleta proveniente del sol en el rango 240-300 nm a través de las reacciones:
+
+O2 => hv 2O (a)
+
+O + O2 => O3 (b)
+
+El ozono absorbe radiación uv de 200 a 360 nm. Esto conduce a una inversión parcial de la reacción “b”, y de este modo se establece un estado de concentración constante. El resultado neto de todos estos procesos es la absorción y conversión en calor de una cantidad considerable de radiación solar uv, que de otra manera incidiría sobre la superficie terrestre. La destrucción de cualquier porcentaje significativo de este ozono, puede tener efectos graves (por ejemplo, aumento de la temperatura de la superficie, mayor incidencia del cáncer en la piel), pero muchas de las actividades del hombre son capaces de destruir el ozono estratosférico. Los aviones supersónicos, que vuelan en la capa de ozono, descargan NO y NO2, pudiendo catalizar la descomposición del ozono por medio de las siguientes reacciones:
+
+O3 + NO => O2 + NO2
+
+NO2 + O => O2 + NO
+
+ó
+
+NO2 + O3 => O2 + NO3
+
+NO3 => hv O2 + NO
+
+La situación, sin embargo, es un poco mas complicada, y el efecto neto de los aviones supersónicos varia con el tipo de motor y el motor y el modo de operación. El avión del tipo Concorde, como se opera usualmente, parece no tener efectos significativos. Los clorofluorocarbonos, como el CFCl3 y el CF2Cl2, que se usan mucho como agentes espumantes, propulsores de aerosoles y refrigerantes, se descomponen fotoquimicamente para dar átomos de Cl, y estos si catalizan la descomposición del ozono a través del mecanismo
+
+O3 + Cl => O2 + ClO
+
+ClO + O => O2 + Cl
+
+La rapidez de liberación del fluorocarbono a la atmósfera que prevalecía en 1977 podría reducir significativamente la capa de ozono alrededor del año 2000, según los análisis cinéticos actuales, pero puede haber factores adicionales aun no incluidos en dichos análisis, que podrían alterar las conclusiones para bien o para mal.
+Tipos de óxidos:
+
+El oxígeno forma compuestos con todos los elementos excepto con el helio, neón y posiblemente argón; a excepción de lo alógenos, algunos metales nobles y los gases nobles el oxígeno se combina en forma directa con todos los demás elementos, ya sea a temperatura ambiente o a temperaturas elevadas.
+
+Los óxidos se clasifican en:
+Óxidos básicos: A pesar de que los estudios con rayos X demuestren la existencia de iones óxido, O2-, discretos (así como para los iones peróxido, O22-, y su peróxido, O2-, los cuales se ven a continuación), estos iones no pueden existir en apreciables concentración en solución acuosa, debido a la reacción hidrolítica
+
+O2-(s) + H2O => 2OH- (ac) K> 1022
+
+Además se tiene para los iones per- y superóxido:
+
+O22- + H2O => HO2- + OH-
+
+2O2- + H2O => O2 + HO2- + OH-
+
+por lo tanto solo serán inertes en el agua aquellos iones que sean insolubles en la misma. Los óxidos insolubles en agua por regla general, se disuelven en ácidos diluidos, por ejemplo:
+
+MgO(s) + 2H+ (ac) => Mg2+ (ac) + H2O
+
+aunque en algunos casos, como el del MgO, la ignición a alta temperatura produce un material inerte y muy resistente al ataque de los ácidos.
+Ejemplos:
+
+4Li(s) + O2(g) => 2Li2O(s) óxido de litio (pf >1700°c)
+
+En constante el sodio reacciona con exceso de O2 para dar peróxido de sodio (Na2O2) en vez de Na2O, como producto principal.
+
+2Na(s) + O2(g) => Na2O2(g) peróxido de sodio (se descompone a 460°c)
+
+En estos peróxidos el numero de oxidación del O es -1.
+
+Los miembros mas pesados de esta familia reaccionan con O2 en exceso para dar superóxidos, en estos compuestos el n° de oxidación del O es -½.
+
+K(s) + O2(g) => KO2(s) superóxido de potasio (pf 430°c).
+
+2M(s) + O2(g) => 2(M2+ , O2-)(s) M = Be, Mg, Ca, Sr, Ba
+
+M(s) + O2(g) => (M2+, O22-)(s) M = Ca, Sr, Ba
+Óxidos ácidos: Los óxidos covalentes de los no metales, son por lo general ácidos, se disuelven en agua para producir soluciones ácidas. Se les denomina anhídridos ácidos. Los óxidos insolubles de algunos de los no metales menos electropositivos pertenecientes a esta clase, se disuelven generalmente en bases:
+
+N2O5 (s) + H2O => 2H+ (ac) + 2NO3- (ac)
+
+Sb2O5 (s) + 2 OH- + 5 H2O => 2Sb(OH)6-
+
+Los óxidos básicos y ácidos se combinan a menudo de forma directa para producir sales, como por ejemplo:
+
+fusión
+
+Na2O + SiO2 => Na2SiO3
+Ejemplos:
+
+2C(s) + O2(g) => 2CO(s) (exceso de C y O2 limitado)
+
+C(s) + O2(g) => CO2(g) (exceso de O2 y C limitado)
+
+Óxidos anfóteros: Estos óxidos se comportan como ácidos frente a bases fuertes, y como bases frente a ácidos fuertes:
+
+ZnO + 2H+ (ac) => Zn2+ + H2O
+
+ZnO + 2OH- + H2O => Zn(OH)42-
+
+Otros óxidos: Existen otros óxidos, algunos de los cuales son relativamente inertes, y no se disuelven ni en ácidos ni en bases, por ejemplo el N2O, CO y MnO2; cuando el MnO2 (o el PbO2) reaccionan con ácidos (por ejemplo, HCl concentrado) se trata de una reacción redox y no de un ácido-base.
+
+También existen numerosos óxidos que no son estequiométricos. Se constituyen en general de ordenamientos de tipo compacto de iones óxido, y algunos de los intersticios se llenan con iones metálicos. Sin embargo si el metal presenta variaciones en su estado de oxidación, resultaran productos no estequiométricos. Así el óxido de hierro (II) tiene generalmente una composición en el intervalo FeO0,90- FeO0,95’ dependiendo del método de preparación. Existen numerosos óxidos metálicos mixtos.
+
+También se podrá notar que cuando un elemento dado forma diversos óxidos, el óxido que tenga un elemento en su mas alto estado formal de oxidación (lo que significa en general que ese mas covalente), es el de mayor acidez. Así, se tiene para el cromo: CrO, básico; Cr2O3, anfótero; y CrO3, totalmente ácido.
+Agua
+
+Agua pura: El agua pura es aquella que se encuentra libre de soluciones o sistemas heterogéneos y gases (agua destilada).
+
+Agua potable: Se llama agua potable al agua apta para consumo humano y para el uso domestico.
+
+Agua dura: Agua que contiene demasiados iones Ca2+ o Mg2+.
+
+Agua pesada: Es aquella que se encuentra formada por el azeótropo O17
+
+ 
+Peróxido de hidrogeno
+
+El proceso mas utilizado para la síntesis de H2O2 es el de la autooxidacion de un alquil antraquinol en un solvente orgánico como los alquibencenos; en el proceso original de la I.G. Farbenindustrie, se usaba el 2-etilantraquinol.
+
+El H2O2 se extrae con agua y la solución obtenida de 20 a 40% se purifica por extracción con solventes. Es preciso purificar la solución de antraquinona por la eliminación de los productos de degradación antes de la reducción con un catalizador de platino o níquel, para tener nuevamente al quinol.
+
+Un segundo proceso (Shell) comprende la oxidación del isopropanol y H2O2 ya sea en fase liquida o gaseosa entre 15 y 20 atm y ca. 100°c.
+
+También tiene lugar algunas reacciones secundarias que producen peróxido de aldehidos y ácidos. La mezcla de agua-peróxido-acetona-isopropanol se fracciona por destilación.
+
+El proceso electrolítico mas antiguo, basado en la conversión del sulfato al peroxodisulfato, e hidrólisis de este último a H2O2, tiene uso restringido.
+
+Las soluciones diluidas de H2O2 se concentran por destilación al vacío. Las concentraciones mas elevadas necesitan la adición de estabilizantes.
+
+El H2O2 es un liquido incoloro (p.e. 150.2°, p.f. -0.43°) que se parece mucho al agua a pesar de ser mas densa (1.44 a 25°c).
+
+ 
+
+2FeSC + H2SO4 + H2O2 => Fe2(SO4)3 + H2O
+	 
+  	 
+2e- + H2O2 + 2H+ => 2H2O
+	1
+Fe2- => Fe3+ + e-
+	2
+2Fe²+ + H2O2 + 2H+ => 2H2O2 + 2Fe³+
+	 
+
+ 
+
+ 
+2KI + H2O2 + 2H+ => K2SO4 + I2 + H2O
+ 
+2I- => I2 + 2e-
+2e- + H2O2 +2H+ => I2 + 2H2O
+2I- + H2O2 +2 H+ => I2 + 2H2O
+
+ 
+
+ 
+2KMnO4 + 3H2O2 + 5H2SO4 => 8H2O + 2 MnSO4 + SO2
+ 
+H2O2 => O2 + 2H+ + 2e-
+2e- + H2O2 + 2H+ => 2H2O
+5H2O2 + 6H+ + 2MnO4 => SO2 +2Mn²+ +8H2O
+
+ 
+
+ 
+2K3[Fe(CN6)] + H2O2 + 2KOH => O2 + 2H2O + 2K[Fe(CN6)]
+	 
+  	 
+H2O2 + 2OH- => O2 + 2 H2O + 2e-
+	1
+1e- + Fe(CN)6³- => Fe(CN)64-
+	2
+H2O2 + 2OH- + 2Fe(CN)63- => O2 + 2H2O +2Fe(CN)64-
+	 
+
+ 
+
+ 
+CrCl3 + 3NaOH => Cr(OH)3 + 3NaCl
+	 
+4NaOH + 2Cr(OH)3 + 3H2O2 => 2Na2CrO4 + 8H2O
+	 
+  	 
+2e- + H2O2 => 2OH-
+	3
+5OH- + Cr(OH)3 =>CrO4 + 4H2O + 3e-
+	2  
+3H2O2 + 4OH- + 2Cr(OH)3 => 2CrO4 + 8H2O
+	 
+
+ 

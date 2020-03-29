@@ -1,0 +1,191 @@
+
+
+Sólo hay un elemento en la tabla periódica que no pertenezca a ningún grupo en particular: el hidrógeno. Este elemento tiene una química singular. Además sus tres isótopos difieren tanto en sus masas moleculares que las propiedades físicas y químicas son sensiblemente diferentes.
+Historia de su descubrimiento
+
+La primera referencia histórica escrita acerca del hidrógeno procede de Paracelso, célebre alquimista, quien en el s. XVI observó un aire (que se desprendía al hacer reaccionar un ácido sobre hierro) el cual era inflamable.
+
+Robert Boyle (1627-1691), químico y físico inglés, publicó en 1671 un trabajo titulado
+
+New experiments touching the relation betwixt flame and air en el cual describía la reacción entre el hierro y algunos ácidos diluidos dando lugar a lo que definió como inflammable solution of Mars (nombre alquímico con el que se designaba al hierro).
+
+Sin embargo no fue hasta mucho después que se reconoció como elemento por Henry Cavendish (1731-1810), otro físico y químico inglés, que lo aisló, recogiéndolo sobre mercurio, por primera vez en 1766 Lo describió como un inflammable air from metals. Cavendish pensaba, erróneamente, que su compuesto de origen era el metal y no el ácido.
+
+Fue Lavoisier quien, finalmente, bautizó a este elemento con el nombre hidro-geno, debido a una de sus reacciones más características: arde en presencia de oxígeno para formar agua.
+
+Este es el símbolo utilizado por John Dalton para el representar al hidrógeno en su libro titulado New System of Chemical Philosophy (1808).
+Presencia en la naturaleza
+
+El hidrógeno es el elemento más abundante del Universo. Representa, en peso, el 92% de la materia conocida; del resto, un 7% es de He y solamente queda un 1% para los demás elementos.
+
+En nuestro planeta es el 10º elemento mas abundante en la corteza terrestre Lo encontramos combinado en forma de agua (su compuesto mas abundante; cubre el 80% de la superficie del planeta), materia viva (hidratos de carbono y proteínas; constituye el 70% del cuerpo humano), compuestos orgánicos, combustibles fósiles (petróleo y gas natural), etc.
+
+Curiosamente, es poco abundante en la atmósfera terrestre debido a que su reducida masa molecular hace difícil su retención gravitatoria.
+
+Excepto en la estratosfera, donde se puede detectar en forma atómica, el hidrógeno elemental se presenta siempre en forma molecular H2 molécula a la que denominaremos dihidrógeno, como recomiendan algunos autores, hidrógeno molecular o simplemente hidrógeno. El dihidrógeno (H2) es un gas incoloro e inodoro, menos denso que cualquier otro gas (d=8.99·10-5 g·cm-3) y muy poco soluble en agua.
+
+El hidrógeno es el sistema de almacenamiento de energía por excelencia en el universo.
+
+Las estrellas relativamente jóvenes como nuestro Sol, están compuestas mayoritariamente por hidrógeno y se sustentan a sí mismas mediante reacciones como:
+
+1H + 1H => 2H + β+
+
+1H + 2H => 3He
+
+3He + 3He => 4He + 21H
+Isótopos del hidrógeno (2)
+
+El hidrógeno tiene dos isótopos estables y un tercero radioactivo:
+
+Protio (hidrógeno-1), o simplemente hidrógeno, 11H, abundancia natural: 99.04%. Spin nuclear: 1/23
+
+Deuterio (hidrógeno-2), 12H o D; abundancia: 0.0115 %. Spin nuclear: 1
+
+Tritio (hidrógeno-3), 13H. Isótopo radioactivo (vida media 12.26 años). Abundancia: 7 10-16 %. Decae a helio-3 emitiendo una partícula β, β≡-10e .
+
+13H => 23He + β
+
+El tritio se forma constantemente como consecuencia del impacto de los rayos cósmicos en átomos de las capas altas de la atmósfera:
+
+714N + 10n =>612C + 13T
+
+Existe una significativa demanda de tritio como marcador radioactivo para usos médicos dado que emite electrones de baja energía (solo radiación b sin radiación g) (3) que apenas dañan los tejidos biológicos. Pero su demanda más importante parte de su uso militar. Las denominadas bombas de hidrógeno son en realidad bombas de tritio. Su corta vida media hace que haya que regenerarlas cada poco tiempo.
+
+La obtención del tritio se realiza mediante química nuclear, irradiando lentamente 36 Li con neutrones
+
+36 Li + 10n => 13H + 24He
+
+La notable diferencia en cuanto a la abundancia relativa de los tres isótopos hace que las propiedades del hidrógeno sean básicamente las del isótopo hidrógeno-1 11H.
+
+Debido a que el hidrógeno es tan ligero, las diferencias relativas en cuanto a masa atómica entre sus isótopos es la mayor que podemos encontrar en toda la Tabla Periódica.
+
+Como consecuencia de ello es el hidrogeno el que presenta isótopos con una mayor diferencia en cuanto a propiedades físicas.
+
+Por tener la misma configuración electrónica, los tres isótopos tienen esencialmente las mismas propiedades químicas. Sin embargo la diferencia de masa atómica, que se manifiesta por ejemplo en una energía de disociación importante, influye en aspectos como son: las energías de enlace E-H vs. E-D, las velocidades de reacción y las constantes de equilibrio. (4)
+Propiedades físicas de los diferentes isótopos de H
+Constantes físicas
+	
+H2
+	
+D2
+	
+T2
+Masa atómica (uma) 	1,0078 (H) 	2,0141 (D) 	3,0160 (T)
+Punto de ebullición (K) 	20,6 	23,9 	25,2
+Longitud de enlace (Å) 	0,7414 	0,7414 	0,7414
+Energía de enlace (kJ·mol-1)* 	435,5 	443,4 	446,9
+Calor latente de fusión (kJ·mol-1) 	0,117 	0,197 	0,250
+Presión de vapor (mm Hg) 	54 	5,8 	 
+
+* medida a -259.1 ºC
+
+Las energías de los enlaces E–D y E–T son ligeramente mayores que las del enlace E-H
+
+energías de los enlaces
+
+El nivel vibracional inferior de un enlace E-D se sitúa por debajo del de un enlace E-H y esto trae como consecuencia que su entalpía de enlace sea más elevada.
+
+Esto se traduce en que la energía de activación de las reacciones en las que este involucrada la ruptura de un enlace E–H aumentarán en el caso de una sustitución por D o T.
+
+Es lo que se conoce con el nombre de efecto isotópico cinético. Como consecuencia del mismo:
+
+    el H2 es adsorvido más rápidamente por las superficies que el D2.
+    el H2 reacciona unas 13 veces más rápidamente con el Cl2 que el D2.
+    las reacciones que involucran (por ruptura o formación) enlaces C–H transcurren unas 7 veces mas lentas cuando el protio se remplaza por deuterio.
+    la oxidación del EtOH es seis veces más rápida que la del EtOD.
+    el D2O (agua pesada), utilizada como disolvente, altera notablemente las velocidades de reacción de las delicadas y perfectamente interreguladas reacciones bioquímicas puesto que favorece un intercambio masivo de H por D. Ademas, el agua pesada es incapaz de mantener la vida ya que su velocidad de difusión a través de las membranas celulares es mucho menor que la del agua normal, por lo que mueren deshidratadas.
+
+La deuteración (sustitución de H por D) es un método muy útil para dilucidar el mecanismo a través del cual ocurren determinadas reacciones químicas (marcador químico).
+Agua pesada.
+
+El óxido de deuterio, D2O, se obtiene, principalmente, por electrólisis de agua. Cuando se electroliza una gran cantidad de agua, el H2 se libera más rápidamente que el D2 lo que produce un enriquecimiento progresivo en D2O en el líquido remanente
+
+La desigual generación de H2 frente a D2 puede explicarse en base a un triple argumento:
+
+1.- Las constantes de disociación avalan una mayor presencia de especies disociadas en el caso del H2O; este es un argumento de cariz termodinámico:
+
+H2O => H+ + OH-, K=1.0·10-14
+
+D2O => D+ + OD-, K=3.0·10-15
+
+2.- Por una parte el enlace O–H, más débil, se rompe más fácilmente que el O–D (hasta unas 18 veces mas rápidamente). Como consecuencia, el H2O se disocia unas 3 veces más rápidamente que el D2O. Este es un argumento de tipo cinético.
+
+3.- Por otra, como consecuencia de sus diferentes masas y en base a la ley de Gram. que establece que la difusión molecular m es una función inversamente proporcional a la masa molecular, la difusión del D2O se lleva a cabo a una velocidad menor que la del H2O. Por tanto podemos concluir de este principio que las moléculas de H2O llegan más rápidamente a la superficie de los electrodos donde efectivamente se realiza la transferencia electrónica.
+
+transferencia electrónica
+
+Si se electrolizan 30L de agua normal, hasta un volumen final de 1 mL, este tiene una riqueza aproximada del 99% en D2O
+
+En la tabla se confrontan algunas propiedades físicas del agua pesada D2O y el agua normal.
+Propiedades físicas del agua normal y pesada
+  	
+H2O
+	
+D2O
+Punto de fusión (ºC) 	
+0
+	
+3.8
+Punto ebullición (ºC) 	
+100
+	
+101.4
+Densidad a 20ºC (g·cm-3) 	
+0.997 g/mL
+	
+1.104 g/mL
+Temp. de máxima densidad 	
+4ºC
+	
+11.6 ºC
+Kw 	
+10-14
+	
+3 10-15
+Movilidades iónicas a 18ªC 	
+	
+  K+ 	
+64.2
+	
+54.5
+  Cl- 	
+65.2
+	
+55.3
+  H+ (o D+) 	
+315.2
+	
+213.7
+Constante dieléctrica a 20ºC 	
+82
+	
+30.5
+Solubilidad (g/100mL) a 25ºC 	
+	
+  NaCl 	
+35.9
+	
+30,5
+  BaCl2 	
+35.7
+	
+28.9
+Presión de vapor 	
+H2O > D2O
+Utilidades del agua pesada D2O
+
+    Su uso principal es el moderador en reactores nucleares (reduce la velocidad de los neutrones producidos en la fisión)
+    En las reacciones de deuteración se prefiere utilizar D2O en vez de D2. Se pueden preparar compuestos con deuterio por reacciones de intercambio para lo cual normalmente se utiliza D2O.
+    El agua pesada se puede utilizar como disolvente de modo análogo al H2O puesto que permite estudiar qué pasa con los átomos de hidrógeno en las reacciones químicas.
+
+ 
+
+1) Dos átomos del mismo elemento que tienen diferente masa se denominan isótopos. La diferencia de masa es consecuencia del diferente número de neutrones en el núcleo atómico.
+
+2) La presencia de un spin nuclear 1/2 en el hidrógeno, junto con su abundancia son la base de la Resonancia Magnética Nuclear de protón.
+
+3) La radiación b es detenida por una película de aire de solo 0.6 cm. por lo que prácticamente no se necesita ningún tipo de protección contra ella.
+
+4) A las diferencias en las propiedades ya sean físicas o químicas que surgen como consecuencia de la diferente masa atómica que presentan los diferentes isótopos de un mismo elemento se denominan en general efecto isotópico.
+
+

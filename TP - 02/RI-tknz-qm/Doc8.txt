@@ -1,0 +1,45 @@
+Soda Cáustica (Hidróxido de Sodio)
+
+Es un sólido blanco, higroscópico (absorbe humedad del aire), que corroe la piel y se disuelve muy bien en el agua liberando una gran cantidad de calor. Generalmente se utiliza en forma sólida o en solución. El hidróxido de sodio es uno de los principales compuestos químicos utilizados en la industria. Por ejemplo, es ampliamente utilizado en la fabricación de papel, en la industria del algodón , en la industria textil, en la fabricación de jabón y en la fabricación de muchos otros productos químicos.
+Obtención
+Se prepara por dos métodos distintos.
+Tratando carbonato de sodio con cal apagada.
+
+2Na+ + CO32- + Ca++ + 2OH- => CaCO3 + 2Na+ + 2OH-
+
+Se prepara por filtración de carbonato de calcio, precipitado; y el líquido que pasa se evapora hasta sequedad.
+Electrólisis en celdas especiales de Salmuera.
+
+Haciendo pasar una corriente eléctrica por una solución de cloruro de sodio el cloro se desprende en el ánodo; y el ión cloruro, Cl-, pierde un electrón, oxidándose en consecuencia a cloro gaseoso. Si el electrodo es de carbón que no reacciona, éste se disuelve en el agua hasta formar una solución saturada y luego escapa en estado gaseoso. En el cátodo queda libre el hidrógeno y se forma la soda cáustica.
+Célula de cátodo fijo y diafragma.
+
+Por la parte superior ingresa la solución de cloruro de sodio purificada y saturada.
+
+El diafragma está compuesto por varias capas de asbesto que revisten a telas o mallas de hierro que separan los compartimentos anódicos y catódicos.
+
+Actualmente se emplean varias resinas que reemplazan el asbesto y se trata de compuestos del ácido perfluorsulfónico.
+
+Los ánodos son de grafito y las parrillas de hierro forman el cátodo.
+
+Se aplica una corriente de 4 volts, los iones cloro se dirigen al ánodo, se descargan y abandonan el compartimiento en forma de gas. A demás, el hidrógeno que se desprende se recoge por debajo del diafragma.
+Célula de cátodo fijo sin diafragma.
+
+El transporte de corriente entre los dos espacios tiene lugar por debajo de la campana donde las dos soluciones, anódicas y catódicas están en contacto directamente. Se produce una capa límite estacionaria de modo que quede compensando el transporte de los iones oxidrilos hacia el ánodo con la entrada de la solución de NaCl y la salida de solución de soda cáustica en el compartimiento catódico (el NaCl entra en el compartimiento anódico).
+Célula con cátodo móvil de mercurio.
+
+Una solución saturada purificada de NaCl ingresa continuamente en la misma dirección que una corriente de mercurio, de poco espesor que actúa como cátodo. Se aplica una corriente de 4,6 voltios y los ánodos son de grafito (generalmente varios ánodos). En la electrólisis el cloro se descarga como cloro gaseoso en el ánodo. El Na+ pasa a Na0 en el cátodo antes que el H+ debido a que este último tiene un sobrevoltaje muy elevado.
+
+El sodio se disuelve en el mercurio y sale de la celda. Exteriormente se trata con agua formándose NaOH y H2. El mercurio regresa a la celda lográndose un proceso continuo.
+Ecuaciónes:
+
+2NaCl => 2Na+ + 2Cl-
+
+Ánodo. 2Cl- => Cl2 + 2e-
+
+Cátodo. 2Na+ + 1e- => 2Na
+Na + Hg =>Na - Hg.
+
+Fuera de la celda.
+2Na - Hg + 2 H2O => 2Na+ + 2OH- + H2 + 2Hg.
+
+La reacción entre la amalgama de sodio y el agua es catalizada por limaduras de hierro y la solución obtenida es del orden del 50 %. Mientras que en la de cátodo fijo con diafragma es del 10 %; la sin diafragma es similar (10%).

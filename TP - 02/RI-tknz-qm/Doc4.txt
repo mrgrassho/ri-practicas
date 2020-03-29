@@ -1,0 +1,157 @@
+Estado natural
+
+El sodio y el potasio abundan en la litosfera, el sodio se encuentra en un 2,6% y el potasio en un 2,4%. Se presentan en los grandes depósitos de cloruro de sodio y carnalita (KCl-MgCl2-6H2O). También se los encuentra en minerales como la albita, Si3O3AlNa, y la ortosa, Si3O3AlK. El litio, rubidio, y cesio abundan mucho menos y se presentan principalmente en algunos minerales de silicato. El sodio se obtiene exclusivamente por electrólisis de electrolitos fundidos o de soluciones liquidas de electrolitos fundidos. Para la electrólisis del NaOH se calienta esta sustancia a 330ºC.
+
+Los compuestos del Litio se encuentran muy difundidos en la naturaleza aunque en forma muy escasa. Los mas importantes son: la lepidolita, o mica de litio, un fluorsilicato complejo; elespodumeno, (SiO3)2AlLi y la ambligonita PO4(FAl)Li.
+Obtención
+Electrólisis del NaOH
+
+El hidróxido de sodio contenido en el recipiente de hierro se funde y se mantiene líquido por una corona de mecheros de gas. El cátodo, H, de hierro, se halla rodeado de una campana de rejilla de alambre, M, que esta unida a un recipiente cilíndrico hueco, N, que flota en NaOH líquido. El ánodo esta formado por varias barras de níquel, F, que se sumergen en el líquido. Al fundir el NaOH se ioniza de este modo:
+
+NaOH equilibrio Na+ + OH-
+
+y al pasar corriente, el Na+ se neutraliza y se transforma en Na que, flota y se acumula en forma de una torta, D. El OH-, al neutralizarse en el ánodo reacciona con los radicales iguales según:
+
+4OH => 2H2O + O2
+
+El agua formada se electroliza aun mas desprendiéndose O2 en el ánodo e H2 en el cátodo, acumulándose este ultimo en N, protegiendo así el Na formado de la oxidación.
+
+sodio
+
+También se obtiene Na por la electrólisis del NaCl fundido, al igual que el potasio, pero este último no es fácil de obtener ya que su punto de fusión es bajo y su evaporación es fácil.
+
+Actualmente casi todo el metal se obtiene por electrólisis del NaCl fundido (método de Downs). El cloruro de sodio funde a 802ºC pero agregándole carbonato sódico o alguna otra sal, el punto de fusión del baño de cloruro se reduce hasta los 600ºC. La célula electrolítica tiene un ánodo circular de carbón, rodeado de un cátodo anular de hierro, con una pantalla de metal. El cloro queda libre en el ánodo, y el sodio en el cátodo. El sodio fundido sube a la superficie del baño de cloruro, y por un tubo se vierte en un colector cerrado.
+
+2Cl- - 2e- => Cl2
+
+Na+ + e- =>Na
+ 
+Obtención de rubidio y cesio
+
+Estos metales se obtienen calentando sus hidróxidos con aluminio o magnesio en corriente de hidrogeno o calentando sus cloruros con calcio.
+Obtención de litio
+
+El litio se prepara por electrólisis de su cloruro fundido, Cl- Li+. Es un metal blanco más duro que el sodio y mas liviano que todos los metales.
+
+Todos los metales se purifican por destilación.
+Propiedades
+Propiedad 	Litio 	Sodio 	Potasio
+P. de ebullición 	1342 	868.9 	759.9
+p. de fusión 	180.54 	97.81 	63.25
+Electronegatividad 	1 	0.9 	0.8
+Pot. de ionización 	5.392 	5.139 	4.341
+ 
+Propiedad 	Rubidio 	Cesio 	Francio
+P. de ebullición 	686 	669.3 	-
+p. de fusión 	38.89 	28.40 	27
+Electronegatividad 	0.8 	0.79 	0.8
+Pot.de ionización 	4.177 	3.894 	-
+Reacción con el hidrogeno
+Preparación y propiedades químicas
+
+La reacción directa se produce en el intervalo de 300 a 700ºc. Para la reacción completa del litio la temperatura debe ser de cerca de los 725ºc. El sodio reacciona normalmente con el H2 solo por encima de los 200ºc y la reacción es lenta ya que se forma una capa inerte del hidruro.
+
+Los hidruros son sólidos cristalinos blancos cuando son puros, pero generalmente grises debido a que poseen trazas del metal. Los hidruros reaccionan con el agua y con el aire, y los de rubidio, cesio y bario, pueden encenderse espontáneamente en el aire húmedo. A altas temperaturas se descomponen en H2 y el metal, solo el de Litio alcanza el punto de fusión a 688ºc.
+Reacción con los halógenos
+Cloruro de sodio
+
+El cloruro de sodio no se prepara industrialmente ya que existe en grandes cantidades en la corteza terrestre. Se obtiene directamente de las salinas o de los mares. Para muchos casos es necesario unificar los cuerpos extraídos directamente de la naturaleza.
+
+Es una sustancia incolora, inodora de sabor salado. Su solubilidad en agua es de un 30% a temperatura ordinaria, solubilidad que aumenta muy poco al aumentar la temperatura. Es un electrolito fuerte tanto en sus soluciones acuosas como en sistemas líquidos formados por ella (NaCl fundido), esta casi totalmente disociada en iones Cl- y Na+.
+
+Se usa en la alimentación humana de la cual es parte importante. La sal común de esta impurificada con sales de magnesio. La llamada sal de mesa esta purificada para privarla de dichas sales, el NaCl se utiliza también para preparar Na, NaOH, Na2CO3.
+Otros haluros de sodio
+
+El sodio se combina con el resto de los elementos del grupo de los halógenos:
+
+    Fluoruro sódico, FNa, puede obtenerse tratando carbonato sódico o hidróxido de sodio con cantidad necesaria de ácido fluorhídrico, y evaporando la disolución a la sequedad. (se emplea como insecticida y para la preservación de la putrefacción que ocasionan hongos y mohos.
+    Bromuro sódico, BrNa, se obtiene por la acción del ácido bromhídrico sobre el carbonato o el hidróxido de sodio. (se usa para fabricar bromuro de plata, material fotosensible en las películas y papel fotográfico, así también en medicina como sedante).
+    Yoduro sódico, INa, que se prepara por los mismos métodos que el bromuro, también se emplea en fotografía y en medicina.
+
+Haluros de potasio
+
+    Cloruro de potasio, ClK, se lo puede encontrar como tal en los yacimientos de Stassfurt y de Cardona en el mineral silvina, ClK, y como sal doble, ClK-Cl2Mg-6H2O, en la carnalita. Disolviendo la carnalita en agua se separa el cloruro de potasio, menos soluble que el de magnesio.
+    Yoduro de potasio, IK, se obtiene calentando iodo en una disolución concentrada de hidróxido de potasio, se forman primero yoduro y yodato de potasio:
+
+6KOH + 3Y2 => 5KI + IO3K + 3H2O
+
+El yodato se reduce a yoduro calentando la mezcla seca con carbón. El yoduro se purifica por recristalización. Esta sal se usa en medicina y en fotografía.
+
+Bromuro de potasio, BrK, se prepara igualmente que el de Yoduro de potasio, se utiliza en medicina y en fotografía.
+Óxidos, peróxidos y superoxidos
+
+El sodio forma dos óxidos: el oxido sódico, Na2O y el peróxido sodico, Na2O2, pero en ambos el sodio tiene numero de valencia +1. El peróxido se prepara calentando el sodio en exceso de oxigeno o aire (exento de humedad y de anhídrido carbónico) a una temperatura de 300 a 400ºC. Se utiliza como oxidante. El oxido puede obtenerse calentando una mezcla de peróxido de sodio y sodio, o de nitrato sódico y sodio:
+
+Na2O2 + 2Na => 2Na2O
+
+2NO3Na + 10 Na => 6 Na2O + N2 (g)
+Hidróxidos
+
+Hidróxido de sodio: (NaOH) es uno de los principales compuestos del sodio. Es un sólido blanco, higroscópico, que corroe la piel y se disuelve muy bien en agua. Funde a 318.4ºc y hierve a 1390ºC. Se prepara por distintos métodos:
+
+I. Tratando carbonato de sodio con cal apagada,
+
+CO3- + 2Na+ + Ca2+ + 2OH- => CO3Ca + 2 Na+ + 2OH-
+
+El carbonato calcio precipitado se separa por filtración, y el líquido que pasa se evapora hasta la sequedad. En la industria del jabón se utiliza el hidróxido de sodio en solución, sin filtrar.
+
+II. Por electrólisis de una solución de NaCl en un aparato especial. Al pasar corriente eléctrica a través de una solución de NaCl el cloro se desprende en el ánodo, el ión cloruro, Cl- , pierde un electrón y se oxida:
+
+2Cl- - 2e- => Cl2
+
+Si el electrodo es de carbono, que no reacciona con el cloro, este se disuelve en el agua hasta su saturación, y luego se escapa al estado gaseoso. En el cátodo se libera hidrogeno, y se forma hidróxido de sodio:
+
+2H+ + 2e- => H2
+Hidróxido de potasio: (KOH), se obtiene por los distintos métodos empleados en la preparación de hidróxido de sodio, esto es, la electrólisis de la disolución de cloruro de potasio y la acción de la cal apagada sobre el carbonato cálcico. El hidróxido de potasio es muy soluble en agua y muy delisecuente (se licua por absorber humedad del aire); absorbe también dióxido de carbono para dar carbonato de potasio CO3K2. El hidróxido de potasio se usa para fabricar jabones.
+Sulfuros
+
+Sulfato de sodio, Na2SO4, se obtiene como subproducto de la obtención del ácido clorhídrico. Cristaliza de su disolución acuosa a temperaturas por debajo de los 32.4ºc. en forma de decahidrato Na2SO4-10H2O, llamado sal de Glauber. Por encima de esta temperatura se lo llama sal anhidra, ya que pierde su agua de hidratación aun en presencia de la misma.
+
+Sulfato ácido de sodio, NaHSO4, se prepara tratando con ácido sulfúrico concentrado cloruro o nitrato de sodio. Este se obtiene como subproducto de la fabricación del ácido nítrico, por la acción del ácido sulfúrico sobre el nitrato de sodio.
+Carbonatos
+
+Hay dos carbonatos de sodio el carbonato sódico, Na2CO3 y el bicarbonato, NaHCO3. El primero se denomina también sosa de lavar o soda solvay.
+
+El carbonato sodico se encuentra en las aguas del lago Magadi, en el África oriental inglesa, y de los lagos Owens y Searles en California. La ceniza de las algas lo suministra. Puede obtenerse por el método Leblanc, Hoy en desuso que consiste en preparar sulfato sódico por la acción del ácido sulfúrico sobre el cloruro de sodio en un horno:
+
+NaCl + H2SO4 => NaHSO4 + HCl (g)
+
+NaHSO4 + NaCl => Na2SO4 + HCl (g)
+
+El sulfato se calienta en cok y caliza en un horno giratorio; el sulfato se reduce a sulfuro, el cual reacciona con el carbonato de calcio:
+
+Na2SO4 + 2C => Na2S + 2CO2
+
+Na2S + CaCO3 => Na2CO3 + CaS
+
+El carbonato sódico se extrae luego con agua.
+
+Cuando se evapora a bajas temperaturas una solución de carbonato sódico, cristaliza el decahidrato, Na2CO3-H2O, Cristal sosa o sosa de lavar, a temperaturas altas el monohidrato, y calentando el hidrato se obtiene la forma anhídrida.
+
+El bicarbonato de sodio se fabrica por el método Solvay, el que se basa en la reacción del bicarbonato amoniaco con solución saturada de sal, en la que separa bicarbonato sódico sólido, insoluble en solución de cloruro amoniaco. Todo el proceso puede considerarse como una serie de reacciones químicas. Las materias primas son al sal común, amoniaco y carbonato cálcico o caliza.
+
+Se satura primero con gas amoniaco una solución de sal, y luego con dióxido de carbono; este se obtiene calentando caliza, formándose como subproducto oxido de calcio:
+
+CaCO3 => CaO + CO2
+
+El dióxido de carbono reacciona con el amoniaco disuelto, formando carbonato de amonio:
+
+CO2 + H2O + 2NH3 => CO3- + 2NH4+
+
+que con exceso de CO2 origina el bicarbonato:
+
+CO3- + 2NH4+ + H2O + CO2 => 2HCO3- + 2NH4+
+
+y se precipita bicarbonato sodico, dejando cloruro amoniaco en solución:
+
+HCO3- + NH4+ + Cl- +Na+ => NaHCO3¯ + Cl- + NH4+
+
+El bicarbonato sódico sólido se separa por filtración y se purifica por recristalización. El carbonato sódico se obtiene por calentamiento del bicarbonato:
+
+2NaHCO3 => NaCO3 + H2O + CO2
+
+Para recuperar el amoniaco se tata la disolución con cal apagada:
+
+Ca2+ + 2OH- + 2Cl- + 2NH4+ => 2NH3­ + 2H2O + 2Cl- + Ca2+
+
+ 
