@@ -1,0 +1,13 @@
+{
+    "qty_docs": 499,
+    "qty_tokens": 386184,
+    "qty_terms": 27421,
+    "avg_qty_tokens": 773.9158316633267,
+    "avg_qty_terms": 54.95190380761523,
+    "avg_len_term": 8.593486743736552,
+    "min_tokens_file": 0,
+    "max_tokens_file": 3218,
+    "min_terms_file": 0,
+    "max_terms_file": 2998,
+    "qty_terms_one_appeareance": 13782
+}

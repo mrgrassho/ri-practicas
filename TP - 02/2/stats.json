@@ -1,13 +1,13 @@
 {
     "qty_docs": 499,
-    "qty_tokens": 0,
-    "qty_terms": 30692,
-    "avg_qty_tokens": 0.0,
-    "avg_qty_terms": 61.50701402805611,
-    "avg_len_term": 8.921510491333246,
+    "qty_tokens": 386182,
+    "qty_terms": 30976,
+    "avg_qty_tokens": 773.9118236472946,
+    "avg_qty_terms": 62.07615230460922,
+    "avg_len_term": 8.892271435950413,
     "min_tokens_file": 0,
     "max_tokens_file": 3218,
     "min_terms_file": 0,
-    "max_terms_file": 2996,
-    "qty_terms_one_appeareance": 15603
+    "max_terms_file": 3002,
+    "qty_terms_one_appeareance": 15650
 }

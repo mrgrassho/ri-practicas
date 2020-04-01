@@ -30,7 +30,7 @@ class Tokenizer(object):
 
     def __init__(self, dir=getcwd(), stopwords_file=None, term_min_len=3, term_max_len=50, verbose=False):
         super(Tokenizer, self).__init__()
-        self._dir = dir
+        self._dir = getcwd() if dir is None else dir
         self._stopwords = self.parse_regex(stopwords_file) if (stopwords_file is not None) else ''
         self._term_min_len = term_min_len
         self._term_max_len = term_max_len
@@ -83,6 +83,7 @@ class Tokenizer(object):
 
     def extract_term(self, term, filepath):
         term = self.normalize_term(term)
+        self._qty_tokens += 1
         if (len(term) >= self._term_min_len and len(term) <= self._term_max_len) and (not self.is_stopword(term)):
             if (term in self._terms):
                 self._terms[term]['all'] += 1
@@ -153,7 +154,6 @@ class Tokenizer(object):
     def get_stats(self, to_file='stats.json'):
         stats = {}
         qty_terms = len(self._terms.keys())
-        import pdb; pdb.set_trace()
         stats["qty_docs"] = self._qty_docs
         stats["qty_tokens"] = self._qty_tokens
         stats["qty_terms"] = qty_terms
