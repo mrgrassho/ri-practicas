@@ -9,7 +9,7 @@ from os import listdir, getcwd
 from os.path import join, isdir, relpath
 from json import load, dump
 from statistics import mean
-from math import inf
+from math import inf, log
 from sys import stdout, getsizeof
 import argparse
 from re import match, split, findall
@@ -40,6 +40,20 @@ POST_RE_PATTERNS = {
     'word': '[a-zA-Z]+'
 }
 
+# WEIGHT SCHEMES
+
+DOCUMENT_TFIDF = {
+    'V1': lambda v, docs: v['tf'] * log(docs/v['df'],2),
+    'V2': lambda v: 1 + log(v['tf'],2),
+    'V3': lambda v, docs: (1 + log(v['tf'],2)) * log(docs/v['df'],2)
+}
+
+QUERY_TFIDF = {
+    'V1': lambda v, max_i, docs: (0.5 + 0.5*v['tf']/max_i*v['tf']) * log(docs/v['df'],2),
+    'V2': lambda v: 1 + log(v['tf'],2),
+    'V3': lambda v, docs: (1 + log(v['tf'],2)) * log(docs/v['df'],2)
+}
+
 class Tokenizer(object):
     """Docstring for Tokenizer."""
 
@@ -62,6 +76,8 @@ class Tokenizer(object):
         self._post_re_patterns = POST_RE_PATTERNS
         self._stemmer = None
         self._log_terms = []
+        self.doc_weight_scheme = lambda v: DOCUMENT_TFIDF['V1'](v, self._qty_docs)
+        self.query_weight_scheme = lambda v, max_i: QUERY_TFIDF['V1'](v, max_i, self._qty_docs)
         if ('lancaster' == stemmer):
             self._stemmer = LancasterStemmer()
         elif ('porter' == stemmer):
@@ -72,7 +88,6 @@ class Tokenizer(object):
     def progressbar(self, it, prefix="", size=80, file=stdout):
         size = size - len(prefix)
         count = len(it)
-        offset = 10
         write_file = lambda s : [file.write(s), file.flush()] if (self._verbose and prefix != "") else None
         show_progressbar = lambda j : write_file("%s[%s%s] %i/%i\r" % (prefix, "#"*int(size*j/count), "."*(size-int(size*j/count)), j, count))
         if (count > 0):
@@ -95,6 +110,7 @@ class Tokenizer(object):
 
 
     def normalize_str(self, term):
+        """Message"""
         for k in self._replace_vowels:
             for r in self._replace_vowels[k]:
                 term = term.replace(r, k)
@@ -108,14 +124,14 @@ class Tokenizer(object):
     def extract_term(self, term, filepath):
         if (len(term) >= self._term_min_len and len(term) <= self._term_max_len) and (not self.is_stopword(term)):
             if (term in self._terms):
-                self._terms[term]['all'] += 1
+                self._terms[term]['tf'] += 1
                 if (filepath in self._terms[term]):
                     self._terms[term][filepath] += 1
                 else:
                     self._terms[term]['df'] += 1
                     self._terms[term][filepath] = 1
             else:
-                self._terms[term] = {'all': 1, 'df': 1}
+                self._terms[term] = {'tf': 1, 'df': 1}
                 self._terms[term][filepath] = 1
             self._log_terms.append(len(self._terms))
             return True
@@ -180,6 +196,11 @@ class Tokenizer(object):
         else:
             print(f" [+] {relpath(filepath)}: is being ignored (binary file)") if (self._verbose) else None
 
+    
+    def load_doc_weights(self):
+        for k, v in self._terms:
+            self._terms[k]['tf-idf'] = self.doc_weight_scheme(v)
+    
 
     def discovery_dir(self, path=None):
         path = self._dir if (path == None) else path
@@ -192,12 +213,12 @@ class Tokenizer(object):
             self.tokenize_file(path)
 
 
-
     def get_terms(self, to_file='terms.json'):
-        sorted_data = sorted(self._terms.items(), key=lambda kv: kv[1]['all'], reverse=True)
+        sorted_data = sorted(self._terms.items(), key=lambda kv: kv[1]['tf'], reverse=True)
         data = { i[0]: i[1] for i in sorted_data}
         self.dump_file(data, to_file)
         return data
+
 
     def get_log_terms(self, to_file='log_terms.json'):
         self.dump_file(self._log_terms, to_file)
@@ -217,7 +238,7 @@ class Tokenizer(object):
             "max_tokens_file": self._max_tokens_file,
             "min_terms_file": self._min_terms_file,
             "max_terms_file": self._max_terms_file,
-            "qty_terms_one_appeareance": len([t for t in self._terms if self._terms[t]["all"] == 1])
+            "qty_terms_one_appeareance": len([t for t in self._terms if self._terms[t]["tf"] == 1])
         }
         self.dump_file(stats, to_file)
         return stats
@@ -225,8 +246,8 @@ class Tokenizer(object):
 
     def get_freq(self, to_file='frecuencies.json'):
         freq = {
-            'least frequent terms': { i[0]: i[1]['all'] for i in sorted(self._terms.items(), key=lambda kv: kv[1]['all'])[:11]},
-            'most  frequent terms': { i[0]: i[1]['all'] for i in sorted(self._terms.items(), key=lambda kv: kv[1]['all'], reverse=True)[:11]}
+            'least frequent terms': { i[0]: i[1]['tf'] for i in sorted(self._terms.items(), key=lambda kv: kv[1]['tf'])[:11]},
+            'most  frequent terms': { i[0]: i[1]['tf'] for i in sorted(self._terms.items(), key=lambda kv: kv[1]['tf'], reverse=True)[:11]}
         }
         self.dump_file(freq, to_file)
         return freq

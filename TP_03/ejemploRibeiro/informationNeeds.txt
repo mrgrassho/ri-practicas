@@ -1,0 +1,14 @@
+IN 1: What is the association between liver disease (cirrhosis) and vitamin A metabolism in CF?
+Keywords: (ENERGY-METABOLISM, LIVER-CIRRHOSIS, VITAMIN-A)
+
+IN 2: What is the role of Vitamin E in the therapy of patients with CF?
+Keywords: (PATIENTS, VITAMIN-E, VITAMIN-E-DEFICIENCY)
+
+IN 3: What is the most effective regimen for the use of pancreatic enzyme supplements in the treatment of CF patients?
+Keywords: (DIET, DIET-THERAPY, ENZYMES, PANCREAS, PANCREATIC-EXTRACTS, PANCREATIC-JUICE, PATIENTS)
+
+IN 4: Has any CF patient been found to have consistently normal sweat tests?
+Keywords: (PATIENTS, SWEAT, SWEATING) 
+
+IN 5: Are there abnormalities of taste in CF patients?
+Keywords: (PATIENTS, TASTE, TASTE-DISORDERS)
