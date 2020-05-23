@@ -1,22 +1,22 @@
 {
     "0": {
         "doc_sz": 167546,
-        "doc_index_sz": 22096,
-        "percentage_overhead": "0.131880"
+        "doc_index_sz": 17448,
+        "percentage_overhead": 0.104139
     },
     "1": {
         "doc_sz": 1255996,
-        "doc_index_sz": 136864,
-        "percentage_overhead": "0.108968"
+        "doc_index_sz": 90616,
+        "percentage_overhead": 0.072147
     },
     "2": {
         "doc_sz": 396594,
-        "doc_index_sz": 47792,
-        "percentage_overhead": "0.120506"
+        "doc_index_sz": 35536,
+        "percentage_overhead": 0.089603
     },
     "3": {
         "doc_sz": 90502,
-        "doc_index_sz": 21672,
-        "percentage_overhead": "0.239464"
+        "doc_index_sz": 18184,
+        "percentage_overhead": 0.200924
     }
 }

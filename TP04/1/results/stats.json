@@ -1,12 +1,12 @@
 {
     "qty_docs": 4,
     "qty_tokens": 336402,
-    "qty_terms": 20006,
+    "qty_terms": 13320,
     "avg_qty_tokens": 84100.5,
-    "avg_qty_terms": 5001.5,
-    "avg_len_term": 7.736229131260622,
+    "avg_qty_terms": 3330.0,
+    "avg_len_term": 6.822747747747748,
     "min_tokens_file": 0,
     "max_tokens_file": 394,
     "min_terms_file": 0,
-    "max_terms_file": 190
+    "max_terms_file": 198
 }

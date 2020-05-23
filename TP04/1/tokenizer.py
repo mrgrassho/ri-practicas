@@ -17,7 +17,8 @@ from bs4 import BeautifulSoup
 from types import GeneratorType
 from itertools import tee, cycle
 from threading import Thread
-from index import IndexRI
+import matplotlib.pyplot as plt
+from index import IndexIR
 
 ENCODINGS = [ "utf-8", "ISO-8859-1", "IBM037", "IBM039"]
 
@@ -49,7 +50,10 @@ TMP_TERMS = 'terms.json'
 TMP_STATS = 'stats.json'
 TMP_DOCS_ID = 'docs_id.json'
 TMP_TERMS_ID = 'terms_id.json'
+TMP_TERMS_DISTRIB = 'terms_distrib.png'
 TMP_OVERHD = 'overhead.json'
+TMP_OVERHD_DOC = 'overhead_by_doc.png'
+TMP_OVERHD_TOTAL = 'overhead.png'
 
 
 class Tokenizer(object):
@@ -63,7 +67,7 @@ class Tokenizer(object):
         self._queries = dict()
         self._term_min_len = term_min_len
         self._term_max_len = term_max_len
-        self._index = IndexRI()
+        self._index = IndexIR()
         self._docs_id = dict()
         self._terms_id = dict()
         self._qty_docs = 0
@@ -85,9 +89,8 @@ class Tokenizer(object):
             self._stemmer = LancasterStemmer()
         elif ('porter' == stemmer):
             self._stemmer = PorterStemmer()
+     
         
-
-
     def progressbar(self, it, prefix="", size=80, file=stdout):
         size = size - len(prefix)
         if (isinstance(it, GeneratorType)):
@@ -269,14 +272,15 @@ class Tokenizer(object):
                 self._overhead[self._docs_id[fpath]] = {
                     "doc_sz": sz_doc, # in bytes
                     "doc_index_sz": sz_index, # in bytes
-                    "percentage_overhead": f"{sz_index/sz_doc:.6f}"
+                    "percentage_overhead": round(sz_index/sz_doc,6)
                 }
         if (not exists(TMP_RESULT)):
             mkdir(TMP_RESULT)
         self.get_stats()
         self.get_docs_id()
-        self.get_terms()
         self.get_overhead()
+        self.get_terms()        
+        self._index.indexing_ready()
 
 
     def get_docs_id(self, to_file=TMP_DOCS_ID):
@@ -284,11 +288,49 @@ class Tokenizer(object):
         
 
     def get_terms(self, to_file=TMP_TERMS):
-        self._index.dump_json(join(TMP_RESULT,to_file))
+        data = self._index.dump_json(join(TMP_RESULT,to_file))
+        # Plot Overhead By Doc
+        width = 1
+        fig, ax = plt.subplots()
+        a = [ i[1]['df']*8 for i in data.items()]
+        ax.bar(range(len(data.keys())), a, width, label="Doc_i Size")
+        ax.set_ylabel("Size in Bytes")
+        ax.set_xlabel("Terms")
+        ax.set_title("Plist Size By Term")
+        ax.legend()
+        plt.savefig(join(TMP_RESULT,TMP_TERMS_DISTRIB))
 
 
     def get_overhead(self, to_file=TMP_OVERHD):
         self.dump_json(self._overhead, join(TMP_RESULT,to_file))
+        width = 0.35
+        # Plot Overhead By Doc
+        fig, ax = plt.subplots()
+        a = [ i[1]['doc_sz'] for i in self._overhead.items()]
+        b = [ i[1]['doc_index_sz'] for i in self._overhead.items()]
+        c = [ i[1]['percentage_overhead']*100 for i in self._overhead.items()]
+        bar1 = ax.bar(self._overhead.keys(), a, width, label="Doc_i Size")
+        bar2 = ax.bar(self._overhead.keys(), b, width, label="Doc_i Index Size")
+        ax.set_ylabel("Size in Bytes")
+        ax.set_xlabel("Documents")
+        ax.set_title("Doc_i Size vs Doc_i Index Size")
+        for i in range(len(bar1)):
+            height = bar2[i].get_height()
+            plt.text(bar1[i].get_x() + bar1[i].get_width()/2.0, height, f'{c[i]:.1f}%', ha='center', va='bottom')
+        ax.legend()
+        plt.savefig(join(TMP_RESULT,TMP_OVERHD_DOC))
+        # Plot Overhead all docs
+        width = 0.5
+        fig, ax = plt.subplots()
+        bar1 = ax.bar([self._dir], [sum(a)], width, label="Collection Size")
+        bar2 = ax.bar([self._dir], [sum(b)], width, label="Index Size")
+        ax.set_ylabel("Size in Bytes")
+        ax.set_xlabel("Collection")
+        ax.set_title("Collection Size vs Index Size")
+        height = bar2[0].get_height()
+        plt.text(bar1[0].get_x() + bar1[0].get_width()/2.0, height, f'{(sum(b)/sum(a))*100:.2f}%', ha='center', va='bottom')
+        ax.legend()
+        plt.savefig(join(TMP_RESULT,TMP_OVERHD_TOTAL))
         return self._overhead
 
 

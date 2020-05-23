@@ -352,11 +352,11 @@ class Tokenizer(object):
             for path, _, files in self.progressbar(walk(path), f" [+] {relpath(path)}: "):
                 for f in files:
                     self.tokenize_file(join(path, f))
-            self.get_stats()
-            self.get_docs_id()
-            self.get_terms_id()
-            self.get_doc_weights()
-            self.get_terms()
+            #self.get_stats()
+            #self.get_docs_id()
+            #self.get_terms_id()
+            #self.get_doc_weights()
+            #self.get_terms()
             np.savez_compressed(join(self._cache_dir,TMP_TDMATRIX), a=self._td_matrix)
 
 

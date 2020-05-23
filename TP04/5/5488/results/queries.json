@@ -1,0 +1,112 @@
+{
+    "0": {
+        "phrases": {
+            "0": {
+                "terms": {
+                    "would": 1,
+                    "god": 1,
+                    "these": 1,
+                    "blessed": 1
+                }
+            }
+        },
+        "one": {
+            "topk": [
+                1
+            ],
+            "time": 0.11699581146240234
+        },
+        "avgtime": 0.11699581146240234
+    },
+    "1": {
+        "phrases": {
+            "0": {
+                "terms": {
+                    "would": 1,
+                    "god": 1,
+                    "these": 1,
+                    "blessed": 1
+                }
+            },
+            "1": {
+                "terms": {
+                    "roman": 1,
+                    "authorities": 1,
+                    "still": 1,
+                    "greater": 1,
+                    "importance": 1
+                }
+            }
+        },
+        "1and2": {
+            "topk": [],
+            "time": 0.1031789779663086
+        },
+        "1or2": {
+            "topk": [
+                1,
+                3
+            ],
+            "time": 0.11174798011779785
+        },
+        "1not2": {
+            "topk": [
+                1
+            ],
+            "time": 0.11179018020629883
+        },
+        "avgtime": 0.10890571276346843
+    },
+    "2": {
+        "phrases": {
+            "0": {
+                "terms": {
+                    "would": 1,
+                    "god": 1,
+                    "these": 1,
+                    "blessed": 1
+                }
+            },
+            "1": {
+                "terms": {
+                    "roman": 1,
+                    "authorities": 1,
+                    "still": 1,
+                    "greater": 1,
+                    "importance": 1
+                }
+            },
+            "2": {
+                "terms": {
+                    "alice": 1,
+                    "adventures": 1,
+                    "wonderland": 1
+                }
+            }
+        },
+        "1and2and3": {
+            "topk": [],
+            "time": 0.11476588249206543
+        },
+        "1or2or3": {
+            "topk": [
+                1,
+                3,
+                0
+            ],
+            "time": 0.12849712371826172
+        },
+        "(1or2)not3": {
+            "topk": [
+                1,
+                3
+            ],
+            "time": 0.10787010192871094
+        },
+        "(1and2)or3": {
+            "topk": [],
+            "time": 0.09597301483154297
+        },
+        "avgtime": 0.11177653074264526
+    }
+}

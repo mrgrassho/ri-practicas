@@ -1,0 +1,22 @@
+{
+    "0": {
+        "doc_sz": 167546,
+        "doc_index_sz": 16816,
+        "percentage_overhead": "0.100366"
+    },
+    "1": {
+        "doc_sz": 1255996,
+        "doc_index_sz": 84544,
+        "percentage_overhead": "0.067312"
+    },
+    "2": {
+        "doc_sz": 396594,
+        "doc_index_sz": 34368,
+        "percentage_overhead": "0.086658"
+    },
+    "3": {
+        "doc_sz": 90502,
+        "doc_index_sz": 16832,
+        "percentage_overhead": "0.185985"
+    }
+}
