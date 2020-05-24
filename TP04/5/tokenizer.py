@@ -32,14 +32,14 @@ REPLACE_VOWELS = {
 }
 
 PRE_RE_PATTERNS = {
-    'mail': '[a-zA-Z0-9_\-]+@[a-zA-Z0-9]+(?:\.[a-zA-Z0-9]+)+',
-    'url' : '(?:https:\/\/|http:\/\/){0,1}[a-zA-Z0-9\-]+(?:\.[a-zA-Z0-9]+(?:\-[a-zA-Z0-9]+){0,1})+(?:\/[a-zA-Z0-9]+(?:\-[a-zA-Z0-9]+){0,1})*(?:\?[a-zA-Z0-9\-\=\+\&]+){0,1}',
-    'abbr': '(?=\s)[A-Za-z]\.(?=[A-Za-z0-9]\.)*(?=(?=\,|\?|\s[a-z0-9]))',
-    'real': '[0-9]+\.[0-9]+'
+    'mail': "[a-zA-Z0-9_\-]+@[a-zA-Z0-9]+(?:\.[a-zA-Z0-9]+)+",
+    'url' : "(?:https:\/\/|http:\/\/){0,1}[a-zA-Z0-9\-]+(?:\.[a-zA-Z0-9]+(?:\-[a-zA-Z0-9]+){0,1})+(?:\/[a-zA-Z0-9]+(?:\-[a-zA-Z0-9]+){0,1})*(?:\?[a-zA-Z0-9\-\=\+\&]+){0,1}",
+    'abbr': "(?=\s)[A-Za-z]\.(?=[A-Za-z0-9]\.)*(?=(?=\,|\?|\s[a-z0-9]))",
+    'real': "[0-9]+\.[0-9]+"
 }
 
 POST_RE_PATTERNS = {
-    'cel' : '[0-9]+(?:\-[0-9]+)+',
+    'cel' : "[0-9]+(?:\-[0-9]+)+",
     # 'name': '[A-Z][a-z]+(?:(?:\s{1})[A-Z][a-z]+)*',
     'qty' : '[0-9]+',
     'word': '[a-zA-Z]+'
@@ -257,8 +257,6 @@ class Tokenizer(object):
 
 
     def tokenize_file(self, filepath):
-        is_greater = lambda x, y: x if (x > y) else y
-        is_less = lambda x, y: x if (x < y) else y
         if (not self.is_binary(filepath)):
             p = open(filepath, "r")
             tokens, sentences = self.remove_ambiguious_tokens(p.read())
