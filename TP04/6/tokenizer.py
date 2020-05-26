@@ -318,19 +318,26 @@ class Tokenizer(object):
         query_terms = list(query.keys())
         weights_query = self.calc_query_weights(query)
         weights_docs = dict()
-        postings = { term: self._index.get_plist(term) for term in query_terms }
+        postings = dict()
+        ql = [[query_terms[i],query_terms[i+1]] for i in range(0,len(query_terms)-1,2) ]
+        for t1, t2 in ql:
+            postings[t1], postings[t2] = self._index.get_plist_intersect(t1,t2)
+        if (len(query_terms) % 2 != 0):
+            postings[query_terms[-1]] = self._index.get_plist(query_terms[-1])
         scores = dict()
         for term in query_terms:
             df = len(postings[term])
             for doc_id, tf in postings[term]:
                 if (doc_id not in scores):
                     scores[doc_id] = 0
-                weights_docs[term] = self.doc_weight_scheme(tf, df)
-                scores[doc_id] += weights_query[term] * weights_docs[term]
+                    weights_docs[doc_id] = dict()
+                if (term not in weights_docs[doc_id]):
+                    weights_docs[doc_id][term] = 0
+                weights_docs[doc_id][term] = self.doc_weight_scheme(tf, df)
+                scores[doc_id] += weights_query[term] * weights_docs[doc_id][term]
         if (self._metric == 'cosine'):
             for doc_id in scores:
-                scores[doc_id] /= (sqrt(sum([wd**2 for wd in weights_docs.values()])) + sqrt(sum([wq**2 for wq in weights_query.values()])))
-        
+                scores[doc_id] /= (sqrt(sum([wd**2 for wd in weights_docs[doc_id].values()])) + sqrt(sum([wq**2 for wq in weights_query.values()])))
         sorted_scores = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)
         heap = dict()
         for i in sorted_scores:

@@ -41,14 +41,12 @@ Ahora analizamos el tamaño de las plist como factor de demora en la ejecución 
 
 #### Utilizando el indice en memoria
 
-![Plist Len time queries](plist_len_time_queries.png)
+![Plist Len time queries](plist_len_time_queries-index-memory-2020-05-24T13:26:53.png)
 
 #### Utilizando el indice en disco
 
-![Plist Len time queries](plist_len_time_queries-disk.png)
+![Plist Len time queries](plist_len_time_queries-index-disk-2020-05-24T13:26:27.png)
 
 > Aclaración: cada punto rojo lo contamos como la sumatoria de las *plists* de los terminos de la consulta sobre la colección.
 
-Podemos ver otra vez, que los tiempos se mantuvieron muy similares utilizando el indice de las dos maneras. Por lo que refuerza la hipotesis de que cargar el indice en memoria no mejora los tiempos de ejecución de las queries.
-
-Por otra parte hay dos conjuntos de listas que en ambas corridas no se comportaron como el resto (intuyo que el merging time pudo haber perjudicado dichos tiempos) pero los despreciamos ya que son solo 2 querys sobre un total de 120.
+Podemos ver, que los tiempos se mantuvieron similares utilizando el indice de las dos maneras. Pero podemos ver una mejora al utilizar el indice en memoria, en donde la variación es menor y se comporta linealmente (la relación tamaño de lista vs tiempos de query).

@@ -88,6 +88,25 @@ class IndexIR(object):
         else:
             return []
 
+
+    def get_plist_intersect(self, t1, t2):
+        result = { term: [] for term in [t1,t2] }
+        p1 = self.get_plist(t1)
+        p2 = self.get_plist(t2)
+        i1 = 0
+        i2 = 0
+        while (i1 < len(p1) and i2 < len(p2)):
+            if p1[i1][0] == p2[i2][0]:
+                result[t1] += [p1[i1]]
+                result[t2] += [p2[i2]]
+                i1 += 1
+                i2 += 1
+            elif p1[i1][0] < p2[i2][0]:
+                i1 += 1
+            else:
+                i2 += 1
+        return result.values()
+
     
     def _load_vocab(self):
         with open(self._vocab_fpath, 'r') as myfile:

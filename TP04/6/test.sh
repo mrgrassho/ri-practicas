@@ -13,7 +13,7 @@ do
     for m in "${ml[@]}"
     do
         ./main.py -s ../stopword-list.txt -d ../en/ -t porter -q ../queries_2y3t.txt --weight $v --metric $m --not-verbose
-        sleep(10)
+        sleep 10
     done
 done
 exit 0

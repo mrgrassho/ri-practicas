@@ -11,6 +11,7 @@ from re import match, split, findall, sub
 from nltk.stem.porter import PorterStemmer
 from nltk.stem.lancaster import LancasterStemmer
 from time import time, sleep
+from datetime import datetime
 import numpy as np
 import codecs
 from bs4 import BeautifulSoup
@@ -77,6 +78,7 @@ class Tokenizer(object):
         self._hash_dir = str(sum([ord(i) for i in list(realpath(dir))]))
         if (not exists(self._hash_dir)):
             mkdir(self._hash_dir)
+        self._in_memory_index = in_memory_index
         self._index = IndexIR(self._hash_dir, in_memory_index)
         self._docs_id = dict()
         self._terms_id = dict()
@@ -301,20 +303,22 @@ class Tokenizer(object):
                     self._queries[idq]["avgtime"] = np.average([self._queries[idq][mask]["time"] for mask in masks])
                     self._plist_len_time_queries.append([sum([self._index._vocabulary[term]["df"] for term in self._queries[idq]["terms"] if term in self._index._vocabulary])*8, self._queries[idq]["avgtime"]])
                 self.get_queries()
-                print(" [*] Query - Average Time: ",  np.average([self._queries[idq]["avgtime"] for idq in self._queries]))
+                avg = np.average([self._queries[idq]["avgtime"] for idq in self._queries])
+                print(" [*] Query - Average Time: ",  avg)
                 data = sorted(self._plist_len_time_queries, key=lambda kv: kv[1])
                 np.savetxt(join(self.tmp_result,'plist_len_time_queries.csv'), data, delimiter=',', fmt=['%d','%1.6f'])
                 # Plot Overhead By Doc
                 width = 1
                 fig, ax = plt.subplots()
-                a = [ i[0] for i in data]
-                b = [ i[1] for i in data]
+                a = [ i[0] for i in data[:-1]]
+                b = [ i[1] for i in data[:-1]]
                 ax.plot(b, a, 'ro-',label="Query_i – Size Plists")
                 ax.set_ylabel("Size in Bytes")
                 ax.set_xlabel("Query Time")
                 ax.set_title("Plist Size By Query")
                 ax.legend()
-                plt.savefig(join(self.tmp_result,'plist_len_time_queries.png'))
+                dat = "index-memory" if self._in_memory_index else "index-disk"
+                plt.savefig(join(self.tmp_result,f"plist_len_time_queries-{dat}-{datetime.isoformat(datetime.now()).split('.')[0]}.png"))
         #self.start_loading("Quering", fun, None)
 
 
@@ -341,7 +345,12 @@ class Tokenizer(object):
         TopK rank using a TAAT (Term-At-A-Time) estrategy
         """
         querylist = list(query.keys())
-        l = [ self._index.get_plist(term) for term in querylist ]
+        l = []
+        ql = [[querylist[i],querylist[i+1]] for i in range(0,len(querylist)-1,2) ]
+        for t1, t2 in ql:
+            l += self._index.get_plist_intersect(t1,t2)
+        if (len(querylist) % 2 != 0):
+            l.append(self._index.get_plist(querylist[-1]))
         query_dnf = self.disjunt_normal_form(query_mask)
         docs_query = dict()
         for i in range(len(l)):
@@ -396,8 +405,9 @@ class Tokenizer(object):
         return self._overhead
 
 
-    def get_queries(self, to_file=TMP_QUERIES):
-        self.dump_json(self._queries, join(self.tmp_result,to_file))
+    def get_queries(self):
+        dat = "index-memory" if self._in_memory_index else "index-disk"
+        self.dump_json(self._queries, join(self.tmp_result,f"queries-{dat}-{datetime.isoformat(datetime.now()).split('.')[0]}.json"))
 
 
     def get_stats(self, to_file=TMP_STATS):
